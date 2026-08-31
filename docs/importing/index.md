@@ -1,11 +1,11 @@
 ---
-description: Importing paprika and dried chillies — MOQ, lead time, documentation and supply-chain guidance for food manufacturers sourcing from China.
+description: Importing paprika and dried chillies — MOQ, lead time, shipping, documentation and supply-chain guidance for food manufacturers sourcing from China.
 type: article
 date_published: 2026-08-31
 date_modified: 2026-08-31
 faq:
   - q: What is the minimum order quantity for paprika and chilli?
-    a: MOQ depends on the product and specification. Contact Tenda Peppers with your target quantity and destination to confirm MOQ, lead time and shipping terms.
+    a: MOQ depends on the product and specification — a custom colour or heat grade may have a different minimum than a standard grade. Contact Tenda Peppers with your target quantity and destination to confirm MOQ, lead time and shipping terms.
   - q: What documentation is provided with a shipment?
     a: Each batch ships with specification documentation under an ISO 9001 and HACCP quality system. Confirm the exact document set (specification sheet, certificate of analysis) with your supplier at inquiry.
   - q: What markets does Tenda Peppers supply?
@@ -41,6 +41,14 @@ MOQ varies by product and specification — a custom colour or heat grade may ha
 minimum than a standard grade. Contact Tenda Peppers with your target quantity and destination
 to confirm MOQ, lead time and shipping terms.
 
+### Why Specification Drives MOQ
+
+A standard sweet paprika (e.g. a common ASTA band, common mesh) is made in large runs and
+carries a lower MOQ. A custom grade — a specific SHU window, an unusual mesh, or a custom
+colour target — may need a dedicated production run, which raises the minimum. This is why
+locking the specification early matters: it determines both price and minimum order. For how to
+write the spec see [the buying guide](../buying-guide/index.md).
+
 ## Documentation and Traceability
 
 A reliable supplier runs a quality system that documents every batch. Tenda Peppers operates
@@ -48,6 +56,28 @@ under ISO 9001 and HACCP with raw-material traceability from 12 controlled growi
 meaning the variety and source of each batch are known, and every batch is verified through
 X-ray inspection, colour sorting and metal detection. See
 [quality & certifications](https://drychillis.com/quality/).
+
+### The Document Set
+
+For import and customs clearance, confirm the supplier provides:
+
+- **Specification sheet** — variety, SHU, ASTA, mesh, moisture
+- **Certificate of analysis (COA)** — batch-level test results
+- **Batch records** — traceability to growing base and production run
+- **Quality-system certificates** — ISO 9001 and HACCP
+
+## Shipping Dried Chilli and Paprika
+
+Dried paprika and chilli are dry, shelf-stable goods, which makes them simpler to ship than
+many food products. Key shipping points:
+
+- **Sea freight** — the standard method for bulk orders; confirm Incoterms (FOB/CIF) with your
+  supplier
+- **Packaging** — bulk bags or custom retail packaging, sealed against moisture
+- **Moisture control** — under 13% moisture keeps the product stable through transit and storage
+
+For how moisture affects shelf life see
+[colour change & storage](../colour-storage/index.md).
 
 ## What Affects Supply Consistency
 
@@ -60,7 +90,8 @@ Two factors drive batch-to-batch consistency:
 
 This is why specifying variety (not just "chilli powder") matters — it is the difference between
 a consistent colour and heat profile, and one that drifts between shipments. See
-[chilli varieties & grades](../chilli-varieties/index.md).
+[chilli varieties & grades](../chilli-varieties/index.md) and
+[quality control](../quality-control/index.md).
 
 ## References
 
@@ -70,6 +101,7 @@ a consistent colour and heat profile, and one that drifts between shipments. See
 
 - [Paprika & chilli buying guide](../buying-guide/index.md)
 - [Chilli varieties & grades](../chilli-varieties/index.md)
+- [Quality control](../quality-control/index.md)
 
 ## Contact
 

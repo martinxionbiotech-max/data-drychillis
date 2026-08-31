@@ -7,7 +7,7 @@ faq:
   - q: What are the main Chinese chilli varieties?
     a: Major Chinese chilli varieties include sweet pepper (Xinjiang), Yidu red, Xian pepper, Jinta, Erjingtiao, Sanying (Tianying), Zidantou (bullet pepper), New Generation, Seven-Star, Jixin (chicken-heart), Xiaomi and Chilli King — spanning sweet to extra-hot.
   - q: Where are Chinese chillies grown?
-    a: China has five major dried-chilli producing regions: the North China Plain (Henan, Hebei, Shandong), the high-heat region (Hunan, Guizhou, Sichuan, Chongqing), the Northwest (Xinjiang, Gansu), local-speciality regions (Shaanxi, Yunnan), and cool-climate regions (Inner Mongolia, Shanxi, Liaoning, Jilin).
+    a: China has five major dried-chilli producing regions — the North China Plain (Henan, Hebei, Shandong), the high-heat region (Hunan, Guizhou, Sichuan, Chongqing), the Northwest (Xinjiang, Gansu), local-speciality regions (Shaanxi, Yunnan), and cool-climate regions (Inner Mongolia, Shanxi, Liaoning, Jilin).
   - q: What is the sweetest chilli for colouring?
     a: Xinjiang sweet pepper (Red Dragon 23) is the standard for high-colour, low-heat paprika — under 500 SHU with an ASTA colour value of 8–18, used for food colouring and paprika oleoresin extraction.
   - q: What chilli is best for hot sauce?
