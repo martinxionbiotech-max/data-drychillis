@@ -1,0 +1,19 @@
+# Tenda Peppers Knowledge Hub — docs.drychillis.com
+
+> Official technical documentation for paprika and dried chilli sourcing.
+
+## Key facts
+
+- **Hub**: Tenda Peppers Knowledge Hub
+- **Parent site**: https://drychillis.com
+- **Domain**: https://docs.drychillis.com
+- **Topics**: ASTA colour value, Scoville Heat Units (SHU), Chinese chilli varieties, applications, import guidance
+
+## Pages
+
+- [Home](https://docs.drychillis.com/)
+- [Paprika & Chilli Buying Guide](https://docs.drychillis.com/buying-guide/)
+- [ASTA Colour & SHU Explained](https://docs.drychillis.com/asta-shu-explained/)
+- [Chilli Varieties & Grades](https://docs.drychillis.com/chilli-varieties/)
+- [Applications & Formulation](https://docs.drychillis.com/applications/)
+- [Importing & Supply Chain](https://docs.drychillis.com/importing/)
