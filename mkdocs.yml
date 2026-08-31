@@ -42,3 +42,45 @@ markdown_extensions:
 
 plugins:
   - search
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          name: English
+        - locale: es
+          name: Español
+          nav_translations:
+            Home: Inicio
+            Buying Guide: Guía de Compra
+            Paprika & Chilli Buying Guide: Guía de Compra de Pimentón y Chile
+            Specifications: Especificaciones
+            ASTA Colour & SHU Explained: Color ASTA y SHU Explicados
+            Chilli Varieties & Grades: Variedades y Grados de Chile
+            Paprika Origins Compared: Orígenes del Pimentón Comparados
+            Organic vs Conventional: Orgánico vs Convencional
+            Colour Change & Storage: Cambio de Color y Almacenamiento
+            Heat Perception & Palate: Percepción del Picor y Paladar
+            Quality Control: Control de Calidad
+            Applications: Aplicaciones
+            Applications & Formulation: Aplicaciones y Formulación
+            Import & Supply: Importación y Cadena de Suministro
+            Importing & Supply Chain: Importación y Cadena de Suministro
+        - locale: ar
+          name: العربية
+          nav_translations:
+            Home: الرئيسية
+            Buying Guide: دليل الشراء
+            Paprika & Chilli Buying Guide: دليل شراء الفلفل الحلو والفلفل الحار
+            Specifications: المواصفات
+            ASTA Colour & SHU Explained: شرح لون ASTA ووحدات SHU
+            Chilli Varieties & Grades: أصناف الفلفل ودرجاته
+            Paprika Origins Compared: مقارنة أصول الفلفل الحلو
+            Organic vs Conventional: عضوي مقابل تقليدي
+            Colour Change & Storage: تغير اللون والتخزين
+            Heat Perception & Palate: إدراك الحرارة والذوق
+            Quality Control: مراقبة الجودة
+            Applications: التطبيقات
+            Applications & Formulation: التطبيقات والتركيبات
+            Import & Supply: الاستيراد وسلسلة التوريد
+            Importing & Supply Chain: الاستيراد وسلسلة التوريد
