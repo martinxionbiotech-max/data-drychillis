@@ -19,6 +19,7 @@
   <meta property="og:type" content="{{ 'article' if (page and page.meta and page.meta.type == 'article') else 'website' }}">
   <meta property="og:url" content="{{ page.canonical_url if page else config.site_url }}">
   <meta property="og:locale" content="{{ og_locale }}">
+  <link rel="alternate" href="{{ config.site_url }}" hreflang="x-default">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{{ page.title if page else config.site_name }}">
   <meta name="twitter:description" content="{{ (page.meta.description if page and page.meta else '') | default(config.site_description, true) }}">
