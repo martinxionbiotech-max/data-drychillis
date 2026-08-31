@@ -1,5 +1,5 @@
 ---
-description: Paprika and chilli powder colour change and storage — why chilli powder lightens over time, why sweet paprika darkens after sterilisation, and how to store for stable colour.
+description: Paprika and chilli powder colour change and storage — why chilli powder lightens, why sweet paprika darkens, and a storage checklist for stable colour and shelf life.
 type: article
 date_published: 2026-08-31
 date_modified: 2026-08-31
@@ -45,14 +45,31 @@ months on a shelf.
   heat (Maillard-type reactions), shifting the powder darker rather than lighter.
 
 This is why two powders can behave oppositely under the same sterilisation step — a distinction
-worth knowing when you specify a colour target.
+worth knowing when you specify a colour target. The reason the two directions exist is the
+different chemistry of the two raw materials: a high-colour, low-sugar hot chilli versus a
+high-sugar sweet pepper. See [ASTA colour & SHU explained](../asta-shu-explained/index.md).
 
 ## How to Store for Stable Colour
+
+Four conditions, in order of importance:
 
 1. **Cool** — avoid heat; high temperature accelerates colour loss
 2. **Dry** — keep moisture under 13%; moisture drives both degradation and microbial risk
 3. **Dark** — light breaks down carotenoids; store away from direct light
 4. **Sealed** — limit oxygen exposure, which drives oxidation
+
+### The Storage Checklist
+
+| Condition | Target | Why it matters |
+|---|---|---|
+| Temperature | Low-temperature warehouse | Slows pigment oxidation and browning |
+| Moisture | <13% | Prevents degradation and microbial growth |
+| Light | Dark / opaque packaging | Carotenoids are light-sensitive |
+| Oxygen | Sealed, limited headspace | Oxygen drives oxidation |
+
+Tenda Peppers holds finished goods in a large low-temperature warehouse before dispatch, so the
+product leaves the factory already colour-stable. See
+[quality control](../quality-control/index.md) for how storage fits the production flow.
 
 ## When Sterilisation Is Required
 

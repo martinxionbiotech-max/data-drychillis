@@ -1,5 +1,5 @@
 ---
-description: Organic vs conventional paprika and chilli — how organic certification changes sourcing, specification and cost, and when it matters for food manufacturers.
+description: Organic vs conventional paprika and chilli — how organic certification changes sourcing, specification and cost, and when it matters (and when it doesn't) for food manufacturers.
 type: article
 date_published: 2026-08-31
 date_modified: 2026-08-31
@@ -57,6 +57,15 @@ Choose organic paprika or chilli when:
 If none of these apply, conventional paprika meets the same specification at lower cost. The
 decision is driven by your product's labelling, not by the chilli itself.
 
+## An Honest Note on Our Supply
+
+Tenda Peppers is certified to ISO 9001 and HACCP, and produces conventional paprika and chilli.
+We are not organically certified. We say this plainly rather than blur it, because the correct
+answer to "can you supply organic?" depends entirely on whether you have a certified organic
+requirement — and if you do, we would rather point you to the right channel than mislabel a
+conventional product. For most industrial food manufacturing, conventional paprika is the
+right commercial choice; the premium of organic only pays off when a label or buyer demands it.
+
 ## The Cost and Availability Trade-off
 
 Organic adds cost through:
@@ -87,4 +96,4 @@ and moisture. For how to build the full specification see
 
 ## Find the Right Product
 
-Need organic or conventional paprika? Browse the [Tenda Peppers product range](https://drychillis.com/products/paprika/) or [contact us](https://drychillis.com/contact/).
+Need conventional paprika? Browse the [Tenda Peppers product range](https://drychillis.com/products/paprika/) or [contact us](https://drychillis.com/contact/).

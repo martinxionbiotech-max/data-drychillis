@@ -1,5 +1,5 @@
 ---
-description: Paprika and dried chilli applications and formulation — where colour-focused paprika and heat-focused chilli are used in food manufacturing, with formulation guidance.
+description: Paprika and dried chilli applications and formulation — where colour-focused paprika and heat-focused chilli are used in food manufacturing, with a worked marinade example.
 type: article
 date_published: 2026-08-31
 date_modified: 2026-08-31
@@ -57,6 +57,32 @@ The most useful formulation pattern is combining paprika and chilli:
 A chilli blend itself often layers multiple varieties — a high-heat variety for punch, a medium
 variety for body, and a high-colour paprika for visual appeal. This "layered heat and colour"
 approach is how consistent hot sauces and seasonings are built.
+
+## A Worked Example: Spiced Marinade
+
+To make the principle concrete, here is a representative chilli-heavy marinade built the layered
+way — each ingredient has a job, and the chilli is not a single variety but a blend of three:
+
+| Ingredient | Parts | Role in the blend |
+|---|---|---|
+| Salt | 35 | Base seasoning, texture |
+| MSG | 20 | Umami body |
+| Sugar | 7 | Sweet balance |
+| Jixin (chicken-heart) chilli | 11 | High-heat punch (50,000+ SHU) |
+| Xiaomi chilli | 7 | Heat + aroma lift |
+| Yidu red (low-heat paprika type) | 5 | Colour + mild depth |
+| Onion powder | 4 | Savoury roundness |
+| Garlic powder | 2 | Aroma |
+| Black pepper | 1 | Sharp tongue bite (piperine) |
+
+The pattern is the point: a hot chilli for punch, a medium chilli for lift, a colouring paprika
+for red, and pepper for tongue bite. This is how a formulator builds heat that is layered rather
+than one-note. See
+[chilli heat perception](../heat-perception/index.md) for why chilli and pepper hit different
+receptors.
+
+*Note: this is an illustrative formulation showing the layering principle. Work with your
+supplier to match exact ratios to your target heat and colour profile.*
 
 ## Formulation Notes
 

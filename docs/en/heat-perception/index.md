@@ -1,5 +1,5 @@
 ---
-description: How chilli heat is perceived — where chilli, pepper and ginger heat hit the palate, and how heat level (SHU) maps to the eating experience.
+description: How chilli heat is perceived — where chilli, pepper and ginger heat hit the palate, the chemistry behind each, and how heat level (SHU) maps to the eating experience.
 type: article
 date_published: 2026-08-31
 date_modified: 2026-08-31
@@ -24,6 +24,9 @@ difference is how a formulator builds layered, rounded heat.
 
 ## The Three Kinds of Heat
 
+The word "hot" describes three different chemical sensations, each with its own active compound
+and its own target region on the palate:
+
 | Spice | Active compound | Where it hits |
 |---|---|---|
 | Chilli | Capsaicin | Whole mouth and throat |
@@ -31,18 +34,21 @@ difference is how a formulator builds layered, rounded heat.
 | Ginger | Gingerol | Edges and back of the tongue |
 
 This is why "hot" is not one sensation. A chilli-heavy product burns broadly and lingers in the
-throat; a pepper-heavy product bites the tongue sharply. A skilled formulation uses both.
+throat; a pepper-heavy product bites the tongue sharply; ginger warms the tongue's edges. A
+skilled formulation uses all three to build heat with texture and dimension.
 
 ## Where Capsaicin Lives in the Chilli
 
-Capsaicin is concentrated in the **placenta** (the pith holding the seeds) and the surrounding
-membranes — not in the seeds themselves. This matters for processing:
+Capsaicin (C16H27NO3) is concentrated in the **placenta** — the pithy tissue holding the seeds —
+and in the surrounding membranes, with some in the skin-surface cells. The seeds themselves hold
+almost none. This matters for processing:
 
 - **De-seeding** removes the seeds but only slightly reduces heat
 - **Removing the placenta** reduces heat substantially
 
 This is why chilli powder heat is controlled more by variety and placenta content than by seed
-removal, and why the same variety can be processed to different heat grades.
+removal, and why the same variety can be processed to different heat grades. See
+[ASTA colour & SHU explained](../asta-shu-explained/index.md) for the chemistry.
 
 ## How SHU Maps to Sensation
 
@@ -60,15 +66,16 @@ For the variety-to-SHU mapping see
 
 ## Building Layered Heat
 
-Because chilli and pepper hit different receptors, the best heat profiles layer them:
+Because chilli, pepper and ginger hit different receptors, the best heat profiles layer them:
 
 - **Base heat** — a medium chilli (10,000–20,000 SHU) for body
 - **Punch** — a high-heat chilli (20,000–50,000 SHU) for intensity
 - **Tongue bite** — pepper (piperine) for a sharp, cooling contrast
+- **Edge warmth** — ginger (gingerol) for a rounded finish
 - **Colour** — paprika (high ASTA, low heat) for visual red without extra burn
 
 This is the "layered heat and colour" principle behind consistent hot sauces and seasonings. See
-[applications & formulation](../applications/index.md).
+[applications & formulation](../applications/index.md) for a worked example.
 
 ## References
 

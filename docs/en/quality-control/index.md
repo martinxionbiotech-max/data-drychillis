@@ -1,5 +1,5 @@
 ---
-description: Paprika and chilli quality control — the three quality pillars (heat, colour, flavour) and the production controls (variety, grade, impurity, moisture) behind consistent batches.
+description: Paprika and chilli quality control — the three quality pillars (heat, colour, flavour), the production controls (variety, grade, impurity, moisture) and the equipment behind consistent batches.
 type: article
 date_published: 2026-08-31
 date_modified: 2026-08-31
@@ -25,6 +25,8 @@ batch after batch.
 
 ## The Three Quality Pillars
 
+Quality in a chilli or paprika is not one number but three, and they are controlled independently:
+
 | Pillar | Measure | Controlled by |
 |---|---|---|
 | Heat | SHU (Scoville) | Variety + placenta content |
@@ -33,7 +35,8 @@ batch after batch.
 
 These are independent. A chilli can be high-colour and mild (sweet paprika), or pale and
 ferociously hot (small hot chillies). Quality control means holding all three to specification
-simultaneously.
+simultaneously — which is why a complete specification names heat, colour *and* flavour, not
+just one. See [the buying guide](../buying-guide/index.md).
 
 ## The Control Levers
 
@@ -44,11 +47,12 @@ flavour. See [chilli varieties & grades](../chilli-varieties/index.md).
 
 ### 2. Impurity Control
 
-Foreign objects and defects are removed physically:
+Foreign objects and defects are removed physically, with overlapping stages so no single machine
+is trusted alone:
 
-- **De-seeding** — removes seeds (minor heat effect, major texture effect)
-- **Magnet filtration** — removes ferrous metal
-- **X-ray inspection** — detects dense foreign objects
+- **De-seeding** — removes seeds and attached plant matter (minor heat effect, major texture effect)
+- **Magnet filtration** — removes ferrous metal fragments
+- **X-ray inspection** — detects dense foreign objects that magnet filtration misses
 - **Colour sorting** — removes off-colour and defective pieces by optical grading
 
 ### 3. Moisture Control
@@ -69,14 +73,32 @@ raw material.
 Raw material sourcing → pre-processing → grading → storage → processing → packaging → finished
 goods — each step gated by a control point:
 
-1. **Raw material sourcing** — approved suppliers, laboratory re-verification
-2. **Pre-processing** — de-seeding, cleaning
-3. **Grading** — size, colour, moisture classification
-4. **Storage** — low-temperature warehouse
-5. **Processing** — magnet filtration, metal detection
-6. **Colour sorting & X-ray** — foreign-object removal, colour grading
-7. **Packaging** — sealed, specification-labelled
-8. **Finished goods** — final inspection before release
+| Step | Stage | Control point |
+|---|---|---|
+| 1 | Raw material sourcing | Approved suppliers, laboratory re-verification |
+| 2 | Pre-processing | De-seeding, cleaning |
+| 3 | Grading | Size, colour, moisture classification |
+| 4 | Storage | Low-temperature warehouse |
+| 5 | Processing | Magnet filtration, metal detection |
+| 6 | Colour sorting & X-ray | Foreign-object removal, colour grading |
+| 7 | Packaging | Sealed, specification-labelled |
+| 8 | Finished goods | Final inspection before release |
+
+## The Equipment That Backs It
+
+Consistency is partly people and partly equipment. The line Tenda Peppers runs combines the
+four key pieces of foreign-object and grade control:
+
+| Equipment | What it removes or does |
+|---|---|
+| De-seeding machine | Seeds and attached plant matter |
+| Magnet filter | Ferrous metal fragments |
+| X-ray machine | Dense foreign objects |
+| Colour sorter | Off-colour and defective pieces |
+
+These run under **24-hour full surveillance** across factory and workshop, with reviewed
+operating procedures at every position and dedicated quality inspectors at each stage — the
+"zero-defect, zero-tolerance" system behind the ISO 9001 / HACCP certification.
 
 ## How This Translates to Your Specification
 

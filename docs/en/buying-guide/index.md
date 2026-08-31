@@ -1,5 +1,5 @@
 ---
-description: Paprika and dried chilli buying guide — how to specify ASTA colour value, Scoville Heat Units (SHU), mesh, moisture and variety for your food application.
+description: Paprika and dried chilli buying guide — how to specify ASTA colour value, Scoville Heat Units (SHU), mesh, moisture, variety and flavour for your food application.
 type: article
 date_published: 2026-08-31
 date_modified: 2026-08-31
@@ -12,6 +12,8 @@ faq:
     a: Paprika is made from low-heat, high-colour sweet peppers (under 10,000 SHU) for colouring and mild flavour. Chilli powder is made from hotter varieties (20,000–50,000+ SHU) to add heat. They are not interchangeable.
   - q: Can I get a custom specification?
     a: Yes. Paprika and chilli are matched to your target colour value, heat level, mesh and packaging, with batch documentation on every shipment.
+  - q: What are the three quality factors I should specify?
+    a: Heat, colour and flavour — the three factors that define a chilli or paprika. They are controlled separately, so a complete specification names all three, not just one.
   - q: What affects chilli quality most?
     a: Climate during the late growth and ripening period is the single biggest factor in chilli quality — it determines heat, colour and flavour. Variety and grade control then determine consistency.
 ---
@@ -19,8 +21,8 @@ faq:
 # Paprika & Chilli Buying Guide
 
 **TL;DR** — Specify paprika by colour value (ASTA) and mild heat; specify dried chillies by
-heat level (SHU) and product form. Confirm mesh, moisture and variety, then match to your
-application. Quality starts with variety and ripening-period climate.
+heat level (SHU) and product form. Confirm mesh, moisture and variety — then don't forget the
+third factor, flavour. Quality starts with variety and ripening-period climate.
 
 ## Step 1: Choose the Product Form
 
@@ -60,18 +62,30 @@ Dried chillies are bought on heat. Chinese chilli varieties span four heat bands
 
 For variety detail see [chilli varieties & grades](../chilli-varieties/index.md).
 
-## Step 4: Confirm Mesh, Moisture and Grade
+## Step 4: Specify Flavour — the Third Factor
+
+Heat and colour are the two factors most buyers name, but **flavour is the third** — and it is
+controlled separately. A chilli can be high-heat but flat-tasting, or medium-heat with a rich
+aromatic depth. Flavour is set by variety and ripening climate, which is why naming the variety
+(not just "chilli powder") locks it in. The three factors together — **heat, colour, flavour** —
+are what quality control holds to specification. See
+[quality control](../quality-control/index.md) for how they are verified.
+
+## Step 5: Confirm Mesh, Moisture and Grade
 
 - **Mesh** — powder particle size, commonly 60–80 mesh, adjustable to your requirement
 - **Moisture** — typically under 13%, critical for shelf life and milling consistency
-- **Grade** — variety + grade control determines colour, heat and impurity consistency
+- **Grade** — variety + grade control determines colour, heat, flavour and impurity consistency
 
-## Step 5: Match to Application
+## Step 6: Match to Application
 
 - **Colouring** → sweet paprika (high ASTA, low heat)
 - **Marinades / seasoning** → low-heat paprika or medium chilli
 - **Hot sauces / snacks** → high-heat chilli powder
 - **Food service / hot-pot** → whole dried chillies
+
+For full application guidance including a worked marinade example, see
+[applications & formulation](../applications/index.md).
 
 ## References
 

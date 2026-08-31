@@ -1,5 +1,5 @@
 ---
-description: ASTA colour value and Scoville Heat Units (SHU) explained for paprika and chilli buyers — what they measure, how to read them, and why they are not interchangeable.
+description: ASTA colour value and Scoville Heat Units (SHU) explained for paprika and chilli buyers — what they measure, the chemistry behind them, and how to read and specify them.
 type: article
 date_published: 2026-08-31
 date_modified: 2026-08-31
@@ -10,6 +10,8 @@ faq:
     a: SHU measures the heat (capsaicin content) of chillies. Chinese chilli varieties range from under 500 SHU for sweet peppers to over 50,000 SHU for extra-hot varieties. SHU tells you how hot a chilli or chilli powder is.
   - q: Are ASTA and SHU the same thing?
     a: No. ASTA measures colour; SHU measures heat. A chilli can be high-colour and low-heat (paprika) or low-colour and high-heat (small hot chillies). Always specify both independently.
+  - q: What is the chemical behind chilli heat?
+    a: Capsaicin (C16H27NO3) is the compound that makes chilli hot. It is concentrated in the placenta — the tissue around the seeds — and the surrounding membranes, not in the seeds themselves.
   - q: What ASTA value do I need for food colouring?
     a: For natural red food colouring, sweet paprika with a higher ASTA (8–18 for Xinjiang sweet pepper, or higher grades) is standard. Confirm your target colour value against your product.
   - q: What SHU do I need for a hot sauce?
@@ -19,8 +21,9 @@ faq:
 # ASTA Colour & SHU Explained
 
 **TL;DR** — Paprika and chilli are specified by two independent numbers: ASTA colour value
-(colour) and Scoville Heat Units (heat). They measure different things — a chilli can be
-high-colour and mild, or pale and ferociously hot. Specify both, never one as a proxy for the other.
+(colour) and Scoville Heat Units (heat). They measure different things, with different chemistry
+behind them — a chilli can be high-colour and mild, or pale and ferociously hot. Specify both,
+never one as a proxy for the other.
 
 ## What ASTA Colour Value Measures
 
@@ -33,14 +36,15 @@ colouring.
 | Sweet paprika (Xinjiang sweet pepper) | 8–18 |
 | Sweet paprika (overall supply range) | 60–240 |
 
-Higher ASTA = stronger colouring power. A buyer specifying paprika should always state the
-target ASTA, because it directly drives both price and how much paprika is needed to hit a
-target colour in the finished product.
+The colour itself comes from carotenoid pigments in the fruit. Higher ASTA means more of that
+extractable red — and therefore stronger colouring power. A buyer specifying paprika should
+always state the target ASTA, because it directly drives both price and how much paprika is
+needed to hit a target colour in the finished product.
 
 ## What Scoville Heat Units Measure
 
-SHU measures heat — specifically the concentration of capsaicinoids (the compounds that make
-chilli "hot"). The chilli heat scale for Chinese varieties spans several orders of magnitude:
+SHU measures heat — specifically the concentration of capsaicinoids, the compounds that make
+chilli "hot". The principal one is **capsaicin (C16H27NO3)**.
 
 | Heat level | SHU range | Varieties |
 |---|---|---|
@@ -49,10 +53,25 @@ chilli "hot"). The chilli heat scale for Chinese varieties spans several orders 
 | High heat | 20,000 – 50,000 | Sanying, Zidantou, New Generation, Seven-Star |
 | Extra hot | >50,000 | Jixin, Xiaomi, Chilli King, Shuan Shuan |
 
+## Where the Heat Lives: Capsaicin's Address
+
+Capsaicin is not evenly spread through the fruit. It is concentrated in the **placenta** — the
+pithy tissue around the seeds — and in the surrounding membranes, with some in the skin-surface
+cells. The seeds themselves contain almost none.
+
+This is a practical point, not a chemistry footnote:
+
+- **De-seeding** removes the seeds but only slightly reduces heat, because the heat was never in
+  the seeds.
+- **Removing the placenta and membranes** reduces heat substantially.
+
+That is why chilli heat is controlled primarily by variety and placenta content — and why the same
+variety can be processed to different heat grades. See
+[chilli heat perception](../heat-perception/index.md) for how this maps to the eating experience.
+
 ## Why You Specify Both
 
-The key insight for buyers: **colour and heat are independent.** Two varieties can sit at
-opposite ends of each scale:
+The key insight for buyers: **colour and heat are independent, chemically and commercially.**
 
 - A **sweet pepper** is high-colour and low-heat — ideal for colouring without adding heat.
 - A **small hot chilli** (like Sanying) is high-heat and low-colour — ideal for adding heat
@@ -71,7 +90,8 @@ Colour is not static — it changes in storage:
 - **Sweet paprika powder** may darken after sterilisation.
 
 This is normal colour chemistry. For shelf-stable colour, confirm storage and sterilisation
-conditions with your supplier. See [applications & formulation](../applications/index.md).
+conditions with your supplier. See
+[colour change & storage](../colour-storage/index.md) for the full picture.
 
 ## References
 
@@ -81,6 +101,7 @@ conditions with your supplier. See [applications & formulation](../applications/
 
 - [Paprika & chilli buying guide](../buying-guide/index.md)
 - [Chilli varieties & grades](../chilli-varieties/index.md)
+- [Chilli heat perception](../heat-perception/index.md)
 
 ## Find the Right Product
 

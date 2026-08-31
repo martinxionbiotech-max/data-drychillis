@@ -1,5 +1,5 @@
 ---
-description: Importing paprika and dried chillies — MOQ, lead time, shipping, documentation and supply-chain guidance for food manufacturers sourcing from China.
+description: Importing paprika and dried chillies — MOQ, lead time, harvest timing, shipping, documentation and supply-chain guidance for food manufacturers sourcing from China.
 type: article
 date_published: 2026-08-31
 date_modified: 2026-08-31
@@ -12,6 +12,8 @@ faq:
     a: Tenda Peppers supplies food manufacturers, importers and distributors across Europe, the Middle East and North America.
   - q: How is paprika and chilli shipped?
     a: Dried paprika and chilli are dry, shelf-stable goods typically shipped by sea in bulk or custom packaging. Confirm packaging and shipping terms with your supplier.
+  - q: When should I place my order for the freshest supply?
+    a: Chinese dried chillies peak in October to December, after the fresh-chilli harvest (September to November). Ordering in season means fresher raw material and a wider grade selection.
   - q: How do I ensure consistent quality across batches?
     a: Specify variety, ASTA colour value, SHU and moisture precisely, and confirm the supplier runs an ISO 9001 / HACCP system with batch documentation and raw-material traceability.
 ---
@@ -20,8 +22,7 @@ faq:
 
 **TL;DR** — Importing paprika and dried chillies is straightforward once the specification is
 locked: confirm MOQ, lead time and documentation with your supplier, and specify variety,
-colour, heat and moisture precisely. A certified supplier with raw-material traceability is the
-difference between a consistent supply and a variable one.
+colour, heat and moisture precisely. Time the order to the harvest for the freshest supply.
 
 ## Before You Order
 
@@ -34,6 +35,20 @@ Lock these five points before placing an order:
 5. **Documentation** — specification sheet, certificate of analysis, batch records
 
 For how to build the specification see [the buying guide](../buying-guide/index.md).
+
+## Timing the Order: The Harvest Calendar
+
+Chilli is a seasonal crop, and the calendar matters for freshness and grade selection:
+
+| Window | Months | What it means for buyers |
+|---|---|---|
+| Fresh-chilli harvest | September – November | Peak raw-material freshness |
+| Dried-chilli harvest | October – December | Best time to lock supply, widest grade selection |
+
+Ordering with the harvest means the raw material has not sat in long-term storage, so colour and
+flavour retention are at their best. It also gives access to the full grade range before the
+season's supply is allocated. For how the crop itself is grown and graded, see
+[chilli varieties & grades](../chilli-varieties/index.md).
 
 ## MOQ and Lead Time
 

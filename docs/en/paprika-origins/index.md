@@ -1,5 +1,5 @@
 ---
-description: Paprika origins compared — China, India and Spain paprika, their variety profiles, colour and heat characteristics, and how origin affects sourcing.
+description: Paprika origins compared — China, India and Spain paprika, their variety profiles, production scale, colour and heat characteristics, and how origin affects sourcing.
 type: article
 date_published: 2026-08-31
 date_modified: 2026-08-31
@@ -40,7 +40,10 @@ is dominated by high-colour, low-heat sweet pepper varieties:
   paprika oleoresin extraction
 - **Yidu red / Wangdu** — under 10,000 SHU, high colour, for low-heat paprika and marinades
 
-Chinese paprika is the standard choice when the goal is extractable red colour without heat. See
+The scale matters. Because China grows chilli across five distinct producing regions — from the
+North China Plain to the Northwest colour-pepper belt in Xinjiang and Gansu — a buyer can source
+both the colouring paprika and the heat-focused chilli from one supply base. Chinese paprika is
+the standard choice when the goal is extractable red colour without heat. See
 [chilli varieties & grades](../chilli-varieties/index.md) for the full variety map.
 
 ## India: Heat Across the Spectrum
