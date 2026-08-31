@@ -22,6 +22,9 @@ standards-based, sourced guidance.
 | 🛒 **Buying Guide** | [Paprika & Chilli Buying Guide](buying-guide/index.md) | How to specify colour, heat, mesh and moisture |
 | 📊 **Specifications** | [ASTA Colour & SHU Explained](asta-shu-explained/index.md) | Colour value and heat unit standards, decoded |
 | 🌶️ **Varieties & Grades** | [Chilli Varieties & Grades](chilli-varieties/index.md) | Chinese chilli varieties, regions, heat levels, best uses |
+| 🎨 **Colour & Storage** | [Colour Change & Storage](colour-storage/index.md) | Why colour shifts, and how to store for stability |
+| 🔥 **Heat & Palate** | [Heat Perception](heat-perception/index.md) | How chilli heat hits the palate vs pepper and ginger |
+| ✅ **Quality Control** | [Quality Control](quality-control/index.md) | The controls behind consistent batches |
 | 🍲 **Applications** | [Applications & Formulation](applications/index.md) | Where paprika and chilli are used in food manufacturing |
 | 🚢 **Import & Supply** | [Importing & Supply Chain](importing/index.md) | MOQ, documentation and supply-chain guidance |
 
