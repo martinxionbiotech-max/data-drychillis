@@ -1,74 +1,91 @@
 ---
-description: Cambio de color y almacenamiento del pimentón y el chile en polvo — por qué el chile en polvo se aclara con el tiempo, por qué el pimentón dulce se oscurece tras la esterilización, y cómo almacenar para un color estable.
+description: Cambio de color y almacenamiento de pimentón y chile en polvo — por qué el chile en polvo se aclara, por qué el pimentón dulce se oscurece, y una lista de almacenamiento para color y vida útil estables.
 type: article
 date_published: 2026-08-31
 date_modified: 2026-08-31
 faq:
   - q: ¿Por qué el chile en polvo pierde color con el tiempo?
     a: El chile en polvo se aclara gradualmente a temperatura ambiente a medida que los pigmentos carotenoides rojos se degradan, y el cambio es más rápido tras la esterilización a alta temperatura. Un almacenamiento fresco, seco y oscuro lo ralentiza.
-  - q: ¿Por qué el pimentón dulce se vuelve más oscuro tras la esterilización?
-    a: El pimentón dulce en polvo puede oscurecerse tras la esterilización a alta temperatura debido a reacciones de pardeamiento, lo cual es química de color normal y no deterioro.
+  - q: ¿Por qué el pimentón dulce se oscurece tras la esterilización?
+    a: El pimentón dulce en polvo puede oscurecerse tras la esterilización a alta temperatura por reacciones de pardeamiento, lo que es química de color normal, no deterioro.
   - q: ¿Cómo mantengo estable el color del pimentón y el chile?
-    a: Almacene en un lugar fresco y seco, lejos de la luz y el oxígeno, controle la humedad por debajo del 13% y evite la esterilización a alta temperatura salvo que sea necesaria. Confirme las condiciones de almacenamiento con su proveedor.
-  - q: ¿El cambio de color significa que el chile está en mal estado?
-    a: No necesariamente. El aclarado gradual (chile) o el oscurecimiento (pimentón dulce) es comportamiento normal del pigmento. Compruebe la humedad y el olor para distinguir un cambio normal de color de un deterioro real.
-  - q: ¿Qué nivel de humedad mantiene estable el chile en estantería?
-    a: El pimentón y el chile se suministran normalmente por debajo del 13% de humedad. Una humedad más baja, junto con un almacenamiento fresco y oscuro, da la mayor vida útil de color y sabor.
+    a: Almacena en un lugar fresco y seco, lejos de la luz y el oxígeno, controla la humedad por debajo del 13% y evita la esterilización a alta temperatura salvo que sea necesaria. Confirma las condiciones de almacenamiento con tu proveedor.
+  - q: ¿El cambio de color significa que el chile está estropeado?
+    a: No necesariamente. El aclarado gradual (chile) o el oscurecimiento (pimentón dulce) es comportamiento normal del pigmento. Revisa humedad y olor para distinguir el cambio de color normal del deterioro real.
+  - q: ¿Qué nivel de humedad mantiene el chile estable en estantería?
+    a: El pimentón y el chile se suministran típicamente por debajo del 13% de humedad. Menor humedad, junto con almacenamiento fresco y oscuro, da la mayor vida útil de color y sabor.
 ---
 
-# Cambio de Color y Almacenamiento del Pimentón y el Chile
+# Cambio de Color y Almacenamiento de Pimentón y Chile
 
 **TL;DR** — El color no es permanente. El chile en polvo se aclara con el tiempo (más rápido tras
-la esterilización); el pimentón dulce puede oscurecerse tras la esterilización. Ambas son química
-de pigmento normal. Un almacenamiento fresco, seco y oscuro, y el control de humedad, mantienen el
+la esterilización); el pimentón dulce puede oscurecerse tras la esterilización. Ambos son química
+de pigmento normal. El almacenamiento fresco, seco y oscuro y el control de humedad mantienen el
 color estable por más tiempo.
 
 ## Por Qué Cambia el Color
 
-El pimentón y el chile obtienen su color rojo de pigmentos carotenoides, que son sensibles a la
-luz, el calor y el oxígeno. Dos cambios importan más en la práctica:
+El pimentón y el chile obtienen su color rojo de los pigmentos carotenoides, sensibles a la luz,
+el calor y el oxígeno. Dos cambios importan más en la práctica:
 
-| Producto | Cambio | Desencadenante |
+| Producto | Cambio | Disparador |
 |---|---|---|
-| Chile en polvo | Se aclara (se desvanece) | Tiempo a temperatura ambiente; se acelera tras la esterilización a alta temperatura |
+| Chile en polvo | Se aclara (se desvanece) | Tiempo a temperatura ambiente; se acelera tras esterilización a alta temperatura |
 | Pimentón dulce en polvo | Se oscurece | Esterilización a alta temperatura, luego el tiempo |
 
-Ningún cambio significa que el producto esté en mal estado — son comportamientos normales del
-pigmento. Pero importan para el comprador, porque el color con el que se envía el producto no es
-el color que mostrará tras meses en estantería.
+Ningún cambio significa que el producto esté estropeado — son comportamiento normal del pigmento.
+Pero importan para un comprador, porque el color con el que tu producto se envía no es el color
+que mostrará tras meses en estantería.
 
 ## Las Dos Direcciones Explicadas
 
-- **El chile en polvo se desvanece** — los carotenoides rojos se oxidan y se descomponen, por lo
-  que el polvo pierde profundidad de color con el tiempo. La esterilización a alta temperatura
-  acelera esto visiblemente, porque el calor acelera la degradación del pigmento.
-- **El pimentón dulce se oscurece** — el mayor contenido de azúcar de las variedades de pimiento
-  dulce se dora bajo el calor (reacciones tipo Maillard), desplazando el polvo hacia un tono más
-  oscuro en lugar de más claro.
+- **El chile en polvo se desvanece** — los carotenoides rojos se oxidan y descomponen, así que el
+  polvo pierde profundidad de color con el tiempo. La esterilización a alta temperatura lo acelera
+  visiblemente, porque el calor acelera la degradación del pigmento.
+- **El pimentón dulce se oscurece** — el mayor contenido de azúcar en las variedades de pimiento
+  dulce se parde bajo calor (reacciones tipo Maillard), desplazando el polvo más oscuro que más claro.
 
 Por eso dos polvos pueden comportarse de forma opuesta bajo el mismo paso de esterilización — una
-distinción que vale la pena conocer al especificar un objetivo de color.
+distinción que vale la pena conocer cuando especificas un objetivo de color. La razón de que
+existan las dos direcciones es la química distinta de las dos materias primas: un chile picante de
+alto color y bajo azúcar frente a un pimiento dulce de alto azúcar. Consulte
+[color ASTA y SHU explicados](../asta-shu-explained/index.md).
 
-## Cómo Almacenar para un Color Estable
+## Cómo Almacenar para Color Estable
 
-1. **Fresco** — evite el calor; la alta temperatura acelera la pérdida de color
-2. **Seco** — mantenga la humedad por debajo del 13%; la humedad impulsa tanto la degradación como el riesgo microbiano
-3. **Oscuro** — la luz descompone los carotenoides; almacene lejos de la luz directa
-4. **Sellado** — limite la exposición al oxígeno, que impulsa la oxidación
+Cuatro condiciones, en orden de importancia:
 
-## Cuándo es Necesaria la Esterilización
+1. **Fresco** — evita el calor; la alta temperatura acelera la pérdida de color
+2. **Seco** — mantén la humedad por debajo del 13%; la humedad impulsa tanto la degradación como el riesgo microbiano
+3. **Oscuro** — la luz descompone los carotenoides; almacena lejos de la luz directa
+4. **Sellado** — limita la exposición al oxígeno, que impulsa la oxidación
 
-Algunos compradores requieren esterilización a alta temperatura para el control microbiano. Si es
-así, espere que el color cambie (desvanecimiento para el chile, oscurecimiento para el pimentón
-dulce), e incorpore eso en su especificación de color — especifique un ASTA inicial más alto para
-compensar el desvanecimiento post-esterilización.
+### La Lista de Almacenamiento
 
-## Cómo se Relaciona el Color con la Especificación
+| Condición | Objetivo | Por qué importa |
+|---|---|---|
+| Temperatura | Almacén de baja temperatura | Ralentiza la oxidación del pigmento y el pardeamiento |
+| Humedad | <13% | Previene degradación y crecimiento microbiano |
+| Luz | Empaque oscuro / opaco | Los carotenoides son sensibles a la luz |
+| Oxígeno | Sellado, espacio de cabeza limitado | El oxígeno impulsa la oxidación |
 
-La estabilidad del color es una razón para especificar con precisión el valor de color inicial, no
-solo un "pimentón rojo" nominal. Consulte
-[color ASTA y SHU explicados](../asta-shu-explained/index.md) para la escala de valor de color, y
-[la guía de compra](../buying-guide/index.md) para fijar las condiciones de almacenamiento en su especificación.
+Tenda Peppers mantiene los productos terminados en un gran almacén de baja temperatura antes del
+despacho, de modo que el producto sale de fábrica ya con color estable. Consulte
+[control de calidad](../quality-control/index.md) para cómo encaja el almacenamiento en el flujo de producción.
+
+## Cuándo Es Necesaria la Esterilización
+
+Algunos compradores requieren esterilización a alta temperatura para control microbiano. Si es
+así, espera que el color se desplace (desvanecimiento para el chile, oscurecimiento para el
+pimentón dulce), e incorpóralo a tu especificación de color — especifica un ASTA inicial más alto
+para compensar el desvanecimiento post-esterilización.
+
+## Cómo Se Relaciona el Color con la Especificación
+
+La estabilidad del color es una razón para especificar el valor de color inicial con precisión, no
+solo un "pimentón rojo" nominal. Consulte [color ASTA y SHU explicados](../asta-shu-explained/index.md)
+para la escala de valor de color, y [la guía de compra](../buying-guide/index.md) para cómo fijar
+las condiciones de almacenamiento en tu especificación.
 
 ## Referencias
 
