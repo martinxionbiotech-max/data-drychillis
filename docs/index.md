@@ -22,6 +22,8 @@ standards-based, sourced guidance.
 | 🛒 **Buying Guide** | [Paprika & Chilli Buying Guide](buying-guide/index.md) | How to specify colour, heat, mesh and moisture |
 | 📊 **Specifications** | [ASTA Colour & SHU Explained](asta-shu-explained/index.md) | Colour value and heat unit standards, decoded |
 | 🌶️ **Varieties & Grades** | [Chilli Varieties & Grades](chilli-varieties/index.md) | Chinese chilli varieties, regions, heat levels, best uses |
+| 🌍 **Origins Compared** | [Paprika Origins](paprika-origins/index.md) | China vs India vs Spain — variety and flavour profiles |
+| 🌱 **Organic vs Conventional** | [Organic vs Conventional](organic-vs-conventional/index.md) | When organic certification matters, and when it doesn't |
 | 🎨 **Colour & Storage** | [Colour Change & Storage](colour-storage/index.md) | Why colour shifts, and how to store for stability |
 | 🔥 **Heat & Palate** | [Heat Perception](heat-perception/index.md) | How chilli heat hits the palate vs pepper and ginger |
 | ✅ **Quality Control** | [Quality Control](quality-control/index.md) | The controls behind consistent batches |

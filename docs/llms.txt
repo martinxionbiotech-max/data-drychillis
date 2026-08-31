@@ -15,6 +15,8 @@
 - [Paprika & Chilli Buying Guide](https://docs.drychillis.com/buying-guide/)
 - [ASTA Colour & SHU Explained](https://docs.drychillis.com/asta-shu-explained/)
 - [Chilli Varieties & Grades](https://docs.drychillis.com/chilli-varieties/)
+- [Paprika Origins Compared](https://docs.drychillis.com/paprika-origins/)
+- [Organic vs Conventional](https://docs.drychillis.com/organic-vs-conventional/)
 - [Colour Change & Storage](https://docs.drychillis.com/colour-storage/)
 - [Heat Perception & Palate](https://docs.drychillis.com/heat-perception/)
 - [Quality Control](https://docs.drychillis.com/quality-control/)
