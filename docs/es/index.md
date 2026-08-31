@@ -27,9 +27,11 @@ raspada de un blog genérico, así que los números provienen de lo que realment
 | 🌱 **Orgánico vs Convencional** | [Orgánico vs Convencional](organic-vs-conventional/index.md) | Cuándo importa la certificación orgánica, y cuándo no |
 | 🎨 **Color y Almacenamiento** | [Cambio de Color y Almacenamiento](colour-storage/index.md) | Por qué cambia el color, y cómo almacenar para estabilidad |
 | 🔥 **Picor y Paladar** | [Percepción del Picor](heat-perception/index.md) | Cómo golpea el picor del chile al paladar vs pimienta y jengibre |
+| 🌡️ **Referencia de Nivel de Picor** | [Referencia de Nivel de Picor](heat-level-reference/index.md) | Tabla completa variedad-SHU para ajustar el picor |
 | ✅ **Control de Calidad** | [Control de Calidad](quality-control/index.md) | Los tres pilares de calidad y los controles detrás |
 | 🍲 **Aplicaciones** | [Aplicaciones y Formulación](applications/index.md) | Dónde se usan pimentón y chile, con un ejemplo trabajado |
 | 🚢 **Importación y Suministro** | [Importación y Cadena de Suministro](importing/index.md) | MOQ, calendario de cosecha, documentación y guía de cadena de suministro |
+| 🛃 **Envío y Aduanas** | [Envío y Aduanas](shipping-and-customs/index.md) | Mar vs aire, Incoterms y el conjunto de documentos de aduana |
 
 ## Estándares Referenciados
 

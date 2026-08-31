@@ -28,11 +28,13 @@ nav:
       - Organic vs Conventional: organic-vs-conventional/index.md
       - Colour Change & Storage: colour-storage/index.md
       - Heat Perception & Palate: heat-perception/index.md
+      - Chilli Heat Level Reference: heat-level-reference/index.md
       - Quality Control: quality-control/index.md
   - Applications:
       - Applications & Formulation: applications/index.md
   - Import & Supply:
       - Importing & Supply Chain: importing/index.md
+      - Shipping & Customs: shipping-and-customs/index.md
 
 markdown_extensions:
   - admonition
@@ -61,11 +63,13 @@ plugins:
             Organic vs Conventional: Orgánico vs Convencional
             Colour Change & Storage: Cambio de Color y Almacenamiento
             Heat Perception & Palate: Percepción del Picor y Paladar
+            Chilli Heat Level Reference: Referencia de Nivel de Picor
             Quality Control: Control de Calidad
             Applications: Aplicaciones
             Applications & Formulation: Aplicaciones y Formulación
             Import & Supply: Importación y Cadena de Suministro
             Importing & Supply Chain: Importación y Cadena de Suministro
+            Shipping & Customs: Envío y Aduanas
         - locale: ar
           name: العربية
           nav_translations:
@@ -79,8 +83,10 @@ plugins:
             Organic vs Conventional: عضوي مقابل تقليدي
             Colour Change & Storage: تغير اللون والتخزين
             Heat Perception & Palate: إدراك الحرارة والذوق
+            Chilli Heat Level Reference: مرجع مستوى الحرارة
             Quality Control: مراقبة الجودة
             Applications: التطبيقات
             Applications & Formulation: التطبيقات والتركيبات
             Import & Supply: الاستيراد وسلسلة التوريد
             Importing & Supply Chain: الاستيراد وسلسلة التوريد
+            Shipping & Customs: الشحن والجمارك

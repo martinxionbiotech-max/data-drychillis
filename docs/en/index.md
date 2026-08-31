@@ -27,9 +27,11 @@ blog, so the numbers come from what we actually produce.
 | 🌱 **Organic vs Conventional** | [Organic vs Conventional](organic-vs-conventional/index.md) | When organic certification matters, and when it doesn't |
 | 🎨 **Colour & Storage** | [Colour Change & Storage](colour-storage/index.md) | Why colour shifts, and how to store for stability |
 | 🔥 **Heat & Palate** | [Heat Perception](heat-perception/index.md) | How chilli heat hits the palate vs pepper and ginger |
+| 🌡️ **Heat Level Reference** | [Heat Level Reference](heat-level-reference/index.md) | Complete variety-to-SHU table for matching heat |
 | ✅ **Quality Control** | [Quality Control](quality-control/index.md) | The three quality pillars and the controls behind them |
 | 🍲 **Applications** | [Applications & Formulation](applications/index.md) | Where paprika and chilli are used, with a worked example |
 | 🚢 **Import & Supply** | [Importing & Supply Chain](importing/index.md) | MOQ, harvest timing, documentation and supply-chain guidance |
+| 🛃 **Shipping & Customs** | [Shipping & Customs](shipping-and-customs/index.md) | Sea vs air, Incoterms and the customs document set |
 
 ## Standards Referenced
 
