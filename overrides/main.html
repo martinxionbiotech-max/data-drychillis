@@ -76,6 +76,18 @@
     }
     .tp-faq-item h3 { margin-top: 0; font-size: 1.02rem; }
     .tp-faq-item p { margin-bottom: 0; }
+    .tp-back-home {
+      display: inline-flex; align-items: center; gap: 6px;
+      padding: 6px 14px; border-radius: 999px;
+      background: #e8a33d; color: #3a1c08 !important;
+      font-weight: 700; font-size: 0.8rem; text-decoration: none;
+      margin: 0 4px; white-space: nowrap; line-height: 1.4;
+    }
+    .tp-back-home:hover { background: #d68f2e; color: #3a1c08 !important; }
+    .tp-back-home svg { flex: none; }
+    @media (max-width: 480px) {
+      .tp-back-home__label { display: none; }
+    }
   </style>
 
   {# Organization + WebSite (site-wide) #}
