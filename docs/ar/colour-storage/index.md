@@ -91,4 +91,4 @@ faq:
 
 ## ابحث عن المنتج المناسب
 
-تحتاج لونًا مستقرًا لتطبيقك؟ تصفح [مجموعة منتجات Tenda Peppers](https://drychillis.com/ar/products/paprika/) أو [تواصل معنا](https://drychillis.com/ar/contact/).
+تحتاج لونًا مستقرًا لتطبيقك؟ تصفح [مسحوق الفلفل الحلو](https://drychillis.com/ar/products/paprika/) أو [تواصل معنا](https://drychillis.com/ar/contact/).

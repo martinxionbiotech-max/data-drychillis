@@ -128,4 +128,4 @@ consistent hot sauce. See [ASTA colour & SHU explained](../asta-shu-explained/in
 
 ## Find the Right Product
 
-Need a specific variety? Browse the [Tenda Peppers product range](https://drychillis.com/products/dried-chillies/) or [contact us](https://drychillis.com/contact/).
+Need a specific variety? Browse the [dried chillies](https://drychillis.com/products/dried-chillies/) or [contact us](https://drychillis.com/contact/).

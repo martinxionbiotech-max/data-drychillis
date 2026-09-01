@@ -99,4 +99,4 @@ malla y humedad. Para cómo construir la especificación completa consulte
 
 ## Encuentre el Producto Adecuado
 
-¿Necesita pimentón convencional? Explore la [gama de productos de Tenda Peppers](https://drychillis.com/es/products/paprika/) o [contáctenos](https://drychillis.com/es/contact/).
+¿Necesita pimentón convencional? Explore la [pimentón en polvo](https://drychillis.com/es/products/paprika/) o [contáctenos](https://drychillis.com/es/contact/).

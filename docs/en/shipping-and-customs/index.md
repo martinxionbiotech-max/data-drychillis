@@ -98,4 +98,4 @@ it left the factory.
 ## Contact
 
 For shipping terms and export documentation, visit the
-[Tenda Peppers contact page](https://drychillis.com/contact/) or email tdlajiao@126.com.
+[Tenda Peppers contact page](https://drychillis.com/contact/) or email joanna@paprikabulk.com.

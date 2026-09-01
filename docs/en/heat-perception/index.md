@@ -88,4 +88,4 @@ This is the "layered heat and colour" principle behind consistent hot sauces and
 
 ## Find the Right Product
 
-Need a specific heat profile? Browse the [Tenda Peppers product range](https://drychillis.com/products/dried-chillies/) or [contact us](https://drychillis.com/contact/).
+Need a specific heat profile? Browse the [dried chillies](https://drychillis.com/products/dried-chillies/) or [contact us](https://drychillis.com/contact/).

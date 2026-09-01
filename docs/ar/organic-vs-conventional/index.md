@@ -93,4 +93,4 @@ Tenda Peppers معتمدة في ISO 9001 وHACCP، وتنتج فلفلًا حل�
 
 ## ابحث عن المنتج المناسب
 
-تحتاج فلفلًا حلوًا تقليديًا؟ تصفح [مجموعة منتجات Tenda Peppers](https://drychillis.com/ar/products/paprika/) أو [تواصل معنا](https://drychillis.com/ar/contact/).
+تحتاج فلفلًا حلوًا تقليديًا؟ تصفح [مسحوق الفلفل الحلو](https://drychillis.com/ar/products/paprika/) أو [تواصل معنا](https://drychillis.com/ar/contact/).

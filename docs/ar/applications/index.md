@@ -102,4 +102,4 @@ faq:
 
 ## ابحث عن المنتج المناسب
 
-تحتاج خلطة مطابقة لتركيبتك؟ تصفح [مجموعة منتجات Tenda Peppers](https://drychillis.com/ar/products/dried-chillies/) أو [تواصل معنا](https://drychillis.com/ar/contact/).
+تحتاج خلطة مطابقة لتركيبتك؟ تصفح [الفلفل المجفف](https://drychillis.com/ar/products/dried-chillies/) أو [تواصل معنا](https://drychillis.com/ar/contact/).

@@ -106,4 +106,4 @@ almacenamiento y esterilización con tu proveedor. Consulte
 
 ## Encuentre el Producto Adecuado
 
-¿Necesita una especificación de color o picor a medida? Explore la [gama de productos de Tenda Peppers](https://drychillis.com/es/products/paprika/) o [contáctenos](https://drychillis.com/es/contact/).
+¿Necesita una especificación de color o picor a medida? Explore la [pimentón en polvo](https://drychillis.com/es/products/paprika/) o [contáctenos](https://drychillis.com/es/contact/).

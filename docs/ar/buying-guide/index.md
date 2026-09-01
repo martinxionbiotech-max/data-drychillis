@@ -95,4 +95,4 @@ faq:
 
 ## ابحث عن المنتج المناسب
 
-تحتاج مواصفات مطابقة؟ تصفح [مجموعة منتجات Tenda Peppers](https://drychillis.com/ar/products/paprika/) أو [تواصل معنا](https://drychillis.com/ar/contact/) للحصول على عرض سعر.
+تحتاج مواصفات مطابقة؟ تصفح [مسحوق الفلفل الحلو](https://drychillis.com/ar/products/paprika/) أو [تواصل معنا](https://drychillis.com/ar/contact/) للحصول على عرض سعر.

@@ -104,4 +104,4 @@ proveedor para ajustar las proporciones exactas a tu perfil objetivo de picor y 
 
 ## Encuentre el Producto Adecuado
 
-¿Necesita una mezcla ajustada a su formulación? Explore la [gama de productos de Tenda Peppers](https://drychillis.com/es/products/dried-chillies/) o [contáctenos](https://drychillis.com/es/contact/).
+¿Necesita una mezcla ajustada a su formulación? Explore la [chiles secos](https://drychillis.com/es/products/dried-chillies/) o [contáctenos](https://drychillis.com/es/contact/).

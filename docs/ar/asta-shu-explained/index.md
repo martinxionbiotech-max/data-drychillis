@@ -100,4 +100,4 @@ faq:
 
 ## ابحث عن المنتج المناسب
 
-تحتاج مواصفة لون أو حرارة مطابقة؟ تصفح [مجموعة منتجات Tenda Peppers](https://drychillis.com/ar/products/paprika/) أو [تواصل معنا](https://drychillis.com/ar/contact/).
+تحتاج مواصفة لون أو حرارة مطابقة؟ تصفح [مسحوق الفلفل الحلو](https://drychillis.com/ar/products/paprika/) أو [تواصل معنا](https://drychillis.com/ar/contact/).

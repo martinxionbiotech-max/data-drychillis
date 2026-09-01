@@ -82,4 +82,4 @@ faq:
 
 ## ابحث عن المنتج المناسب
 
-تحتاج فلفلًا حلوًا عالي اللون؟ تصفح [مجموعة منتجات Tenda Peppers](https://drychillis.com/ar/products/paprika/) أو [تواصل معنا](https://drychillis.com/ar/contact/).
+تحتاج فلفلًا حلوًا عالي اللون؟ تصفح [مسحوق الفلفل الحلو](https://drychillis.com/ar/products/paprika/) أو [تواصل معنا](https://drychillis.com/ar/contact/).

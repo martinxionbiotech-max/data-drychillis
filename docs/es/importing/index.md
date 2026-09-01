@@ -120,4 +120,4 @@ perfil de color y picor consistente, y uno que varía entre envíos. Consulte
 ## Contacto
 
 Para MOQ, plazo y condiciones de exportación, visita la
-[página de contacto de Tenda Peppers](https://drychillis.com/es/contact/) o envía un correo a tdlajiao@126.com.
+[página de contacto de Tenda Peppers](https://drychillis.com/es/contact/) o envía un correo a joanna@paprikabulk.com.

@@ -96,4 +96,4 @@ and moisture. For how to build the full specification see
 
 ## Find the Right Product
 
-Need conventional paprika? Browse the [Tenda Peppers product range](https://drychillis.com/products/paprika/) or [contact us](https://drychillis.com/contact/).
+Need conventional paprika? Browse the [paprika powder](https://drychillis.com/products/paprika/) or [contact us](https://drychillis.com/contact/).

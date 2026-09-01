@@ -99,4 +99,4 @@ Para guía completa de aplicación con un ejemplo trabajado de adobo, consulte
 
 ## Encuentre el Producto Adecuado
 
-¿Necesita una especificación a medida? Explore la [gama de productos de Tenda Peppers](https://drychillis.com/es/products/paprika/) o [contáctenos](https://drychillis.com/es/contact/) para una cotización.
+¿Necesita una especificación a medida? Explore la [pimentón en polvo](https://drychillis.com/es/products/paprika/) o [contáctenos](https://drychillis.com/es/contact/) para una cotización.

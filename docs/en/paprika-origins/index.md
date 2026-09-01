@@ -85,4 +85,4 @@ heat level and flavour, then match the origin to the specification. See
 
 ## Find the Right Product
 
-Need high-colour paprika? Browse the [Tenda Peppers product range](https://drychillis.com/products/paprika/) or [contact us](https://drychillis.com/contact/).
+Need high-colour paprika? Browse the [paprika powder](https://drychillis.com/products/paprika/) or [contact us](https://drychillis.com/contact/).

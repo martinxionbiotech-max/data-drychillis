@@ -103,4 +103,4 @@ supplier to match exact ratios to your target heat and colour profile.*
 
 ## Find the Right Product
 
-Need a blend matched to your formulation? Browse the [Tenda Peppers product range](https://drychillis.com/products/dried-chillies/) or [contact us](https://drychillis.com/contact/).
+Need a blend matched to your formulation? Browse our [dried chillies](https://drychillis.com/products/dried-chillies/) and [paprika powder](https://drychillis.com/products/paprika/) range, or [contact us](https://drychillis.com/contact/).

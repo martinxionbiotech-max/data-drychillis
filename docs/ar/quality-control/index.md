@@ -113,4 +113,4 @@ faq:
 
 ## ابحث عن المنتج المناسب
 
-تحتاج جودة متسقة بين الدفعات؟ تصفح [مجموعة منتجات Tenda Peppers](https://drychillis.com/ar/products/paprika/) أو [تواصل معنا](https://drychillis.com/ar/contact/).
+تحتاج جودة متسقة بين الدفعات؟ تصفح [مسحوق الفلفل الحلو](https://drychillis.com/ar/products/paprika/) أو [تواصل معنا](https://drychillis.com/ar/contact/).

@@ -121,4 +121,4 @@ a consistent colour and heat profile, and one that drifts between shipments. See
 ## Contact
 
 For MOQ, lead time and export terms, visit the
-[Tenda Peppers contact page](https://drychillis.com/contact/) or email tdlajiao@126.com.
+[Tenda Peppers contact page](https://drychillis.com/contact/) or email joanna@paprikabulk.com.

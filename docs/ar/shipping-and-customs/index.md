@@ -95,4 +95,4 @@ FOB وCIF هما الأساس لاستيراد الفلفل. اختر FOB إذا
 
 ## تواصل
 
-لشروط الشحن وتوثيق التصدير، زر [صفحة التواصل الخاصة بـ Tenda Peppers](https://drychillis.com/ar/contact/) أو راسل tdlajiao@126.com.
+لشروط الشحن وتوثيق التصدير، زر [صفحة التواصل الخاصة بـ Tenda Peppers](https://drychillis.com/ar/contact/) أو راسل joanna@paprikabulk.com.

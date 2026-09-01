@@ -100,4 +100,4 @@ condición en que salió de fábrica.
 ## Contacto
 
 Para condiciones de envío y documentación de exportación, visita la
-[página de contacto de Tenda Peppers](https://drychillis.com/es/contact/) o envía un correo a tdlajiao@126.com.
+[página de contacto de Tenda Peppers](https://drychillis.com/es/contact/) o envía un correo a joanna@paprikabulk.com.

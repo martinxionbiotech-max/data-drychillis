@@ -133,4 +133,4 @@ color consistente y una salsa picante consistente. Consulte
 
 ## Encuentre el Producto Adecuado
 
-¿Necesita una variedad específica? Explore la [gama de productos de Tenda Peppers](https://drychillis.com/es/products/dried-chillies/) o [contáctenos](https://drychillis.com/es/contact/).
+¿Necesita una variedad específica? Explore la [chiles secos](https://drychillis.com/es/products/dried-chillies/) o [contáctenos](https://drychillis.com/es/contact/).

@@ -81,4 +81,4 @@ table with the full variety guide when building a specification.
 
 ## Find the Right Product
 
-Need a specific heat level? Browse the [Tenda Peppers product range](https://drychillis.com/products/dried-chillies/) or [contact us](https://drychillis.com/contact/).
+Need a specific heat level? Browse the [dried chillies](https://drychillis.com/products/dried-chillies/) or [contact us](https://drychillis.com/contact/).

@@ -86,4 +86,4 @@ Consulte [color ASTA y SHU explicados](../asta-shu-explained/index.md).
 
 ## Encuentre el Producto Adecuado
 
-¿Necesita pimentón de alto color? Explore la [gama de productos de Tenda Peppers](https://drychillis.com/es/products/paprika/) o [contáctenos](https://drychillis.com/es/contact/).
+¿Necesita pimentón de alto color? Explore la [pimentón en polvo](https://drychillis.com/es/products/paprika/) o [contáctenos](https://drychillis.com/es/contact/).

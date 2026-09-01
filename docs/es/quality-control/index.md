@@ -119,4 +119,4 @@ cómo conviertes una especificación escrita en un producto consistente. Consult
 
 ## Encuentre el Producto Adecuado
 
-¿Necesita calidad consistente entre lotes? Explore la [gama de productos de Tenda Peppers](https://drychillis.com/es/products/paprika/) o [contáctenos](https://drychillis.com/es/contact/).
+¿Necesita calidad consistente entre lotes? Explore la [pimentón en polvo](https://drychillis.com/es/products/paprika/) o [contáctenos](https://drychillis.com/es/contact/).

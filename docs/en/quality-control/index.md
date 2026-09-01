@@ -118,4 +118,4 @@ spec into a consistent product. See [importing & supply chain](../importing/inde
 
 ## Find the Right Product
 
-Need consistent quality across batches? Browse the [Tenda Peppers product range](https://drychillis.com/products/paprika/) or [contact us](https://drychillis.com/contact/).
+Need consistent quality across batches? Browse the [paprika powder](https://drychillis.com/products/paprika/) or [contact us](https://drychillis.com/contact/).

@@ -113,4 +113,4 @@ faq:
 
 ## تواصل
 
-للحد الأدنى والمدة وشروط التصدير، زر [صفحة التواصل الخاصة بـ Tenda Peppers](https://drychillis.com/ar/contact/) أو راسل tdlajiao@126.com.
+للحد الأدنى والمدة وشروط التصدير، زر [صفحة التواصل الخاصة بـ Tenda Peppers](https://drychillis.com/ar/contact/) أو راسل joanna@paprikabulk.com.

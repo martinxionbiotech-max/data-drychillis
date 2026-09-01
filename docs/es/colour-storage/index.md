@@ -98,4 +98,4 @@ las condiciones de almacenamiento en tu especificación.
 
 ## Encuentre el Producto Adecuado
 
-¿Necesita color estable para su aplicación? Explore la [gama de productos de Tenda Peppers](https://drychillis.com/es/products/paprika/) o [contáctenos](https://drychillis.com/es/contact/).
+¿Necesita color estable para su aplicación? Explore la [pimentón en polvo](https://drychillis.com/es/products/paprika/) o [contáctenos](https://drychillis.com/es/contact/).

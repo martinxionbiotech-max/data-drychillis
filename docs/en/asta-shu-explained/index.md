@@ -105,4 +105,4 @@ conditions with your supplier. See
 
 ## Find the Right Product
 
-Need a matched colour or heat specification? Browse the [Tenda Peppers product range](https://drychillis.com/products/paprika/) or [contact us](https://drychillis.com/contact/).
+Need a matched colour or heat specification? Browse the [paprika powder](https://drychillis.com/products/paprika/) or [contact us](https://drychillis.com/contact/).

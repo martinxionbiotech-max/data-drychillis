@@ -95,4 +95,4 @@ into your specification.
 
 ## Find the Right Product
 
-Need stable colour for your application? Browse the [Tenda Peppers product range](https://drychillis.com/products/paprika/) or [contact us](https://drychillis.com/contact/).
+Need stable colour for your application? Browse the [paprika powder](https://drychillis.com/products/paprika/) or [contact us](https://drychillis.com/contact/).

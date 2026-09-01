@@ -89,4 +89,4 @@ consistentes. Consulte [aplicaciones y formulación](../applications/index.md) p
 
 ## Encuentre el Producto Adecuado
 
-¿Necesita un perfil de picor específico? Explore la [gama de productos de Tenda Peppers](https://drychillis.com/es/products/dried-chillies/) o [contáctenos](https://drychillis.com/es/contact/).
+¿Necesita un perfil de picor específico? Explore la [chiles secos](https://drychillis.com/es/products/dried-chillies/) o [contáctenos](https://drychillis.com/es/contact/).

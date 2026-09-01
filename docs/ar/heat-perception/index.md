@@ -85,4 +85,4 @@ faq:
 
 ## ابحث عن المنتج المناسب
 
-تحتاج ملف حرارة محددًا؟ تصفح [مجموعة منتجات Tenda Peppers](https://drychillis.com/ar/products/dried-chillies/) أو [تواصل معنا](https://drychillis.com/ar/contact/).
+تحتاج ملف حرارة محددًا؟ تصفح [الفلفل المجفف](https://drychillis.com/ar/products/dried-chillies/) أو [تواصل معنا](https://drychillis.com/ar/contact/).

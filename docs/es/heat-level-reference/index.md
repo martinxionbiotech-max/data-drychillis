@@ -81,4 +81,4 @@ así que combina esta tabla con la guía completa de variedades al construir una
 
 ## Encuentre el Producto Adecuado
 
-¿Necesita un nivel de picor específico? Explore la [gama de productos de Tenda Peppers](https://drychillis.com/es/products/dried-chillies/) o [contáctenos](https://drychillis.com/es/contact/).
+¿Necesita un nivel de picor específico? Explore la [chiles secos](https://drychillis.com/es/products/dried-chillies/) o [contáctenos](https://drychillis.com/es/contact/).
