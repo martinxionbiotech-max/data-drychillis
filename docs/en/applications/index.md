@@ -92,6 +92,12 @@ supplier to match exact ratios to your target heat and colour profile.*
   since colour shifts in storage (see [ASTA colour & SHU explained](../asta-shu-explained/index.md)).
 - **Mesh affects release** — finer powder releases colour and heat faster than coarse flakes.
 
+## What Buyers Should Ask
+
+1. **What is the product doing** — colour, heat, or both?
+2. **What form and mesh** — powder disperses, flakes and whole chillies stay visible.
+3. **What heat window** — and does it need a high-heat accent, or a stable medium base?
+
 ## References
 
 1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality/)

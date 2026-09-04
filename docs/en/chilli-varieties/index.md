@@ -117,6 +117,13 @@ why a buyer should name the variety (or the target heat + colour profile) rather
 asking for "chilli powder" — it is the difference between a consistent colouring paprika and a
 consistent hot sauce. See [ASTA colour & SHU explained](../asta-shu-explained/index.md).
 
+## What Buyers Should Ask
+
+1. **Which variety** — name it, or give a target SHU + colour profile, not a generic name.
+2. **What region** — origin sets the flavour profile as much as the variety does.
+3. **What form** — whole, flakes, powder or segments, matched to the variety.
+4. **What harvest** — the calendar affects freshness and grade availability.
+
 ## References
 
 1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality/)

@@ -74,6 +74,12 @@ pimentón are both "quality" products — they simply solve different problems. 
 heat level and flavour, then match the origin to the specification. See
 [ASTA colour & SHU explained](../asta-shu-explained/index.md).
 
+## What Buyers Should Ask
+
+1. **What job is the paprika doing** — pure colour, or colour plus a distinct flavour?
+2. **What flavour profile** — sweet and mild, or smoky and pronounced?
+3. **What price band** — origin shifts cost, so match origin to the spec, not the label.
+
 ## References
 
 1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality/)

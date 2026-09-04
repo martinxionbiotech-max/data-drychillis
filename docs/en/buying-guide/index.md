@@ -87,6 +87,20 @@ are what quality control holds to specification. See
 For full application guidance including a worked marinade example, see
 [applications & formulation](../applications/index.md).
 
+## What Buyers Should Ask
+
+Before you place an order, confirm these five so your quote is comparable and your spec is
+complete:
+
+1. **Product form** — paprika powder, flakes, powder, whole chillies or segments?
+2. **ASTA colour value** — what colour strength does your product need?
+3. **SHU heat window** — which band, and from which variety?
+4. **Mesh and moisture** — particle size and shelf-life target.
+5. **Flavour** — colour and heat are not flavour; name the variety to lock aroma too.
+
+A supplier can only quote accurately on one scope — a vague "paprika" or "chilli powder"
+returns a range wide enough to be useless.
+
 ## References
 
 1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality/)

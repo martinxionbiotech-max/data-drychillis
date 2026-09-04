@@ -85,6 +85,15 @@ and moisture. For how to build the full specification see
 [the buying guide](../buying-guide/index.md), and for traceability see
 [quality control](../quality-control/index.md).
 
+## What Buyers Should Ask
+
+1. **Does my label require organic?** — the decision is driven by your product's labelling and
+   target market, not by the chilli itself.
+2. **Is the specification identical either way?** — if colour, heat and moisture are the same,
+   the functional difference is documentation, not performance.
+3. **What does organic cost me in MOQ and lead time?** — organic runs are smaller, so minimums
+   and lead times shift.
+
 ## References
 
 1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality/)

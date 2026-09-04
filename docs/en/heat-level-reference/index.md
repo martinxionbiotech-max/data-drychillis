@@ -69,6 +69,12 @@ number.
 Heat is only one of three factors — colour (ASTA) and flavour vary independently, so pair this
 table with the full variety guide when building a specification.
 
+## What Buyers Should Ask
+
+1. **What SHU window** — start from your target heat, then find the band.
+2. **Which variety** — the table maps variety to SHU; name the variety, not the band.
+3. **What else matters** — colour and flavour are separate; confirm both alongside heat.
+
 ## References
 
 1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality/)
