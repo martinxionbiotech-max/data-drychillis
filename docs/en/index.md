@@ -9,6 +9,11 @@ date_modified: 2026-08-31
 
 **Official technical documentation for paprika and dried chilli buyers.**
 
+**TL;DR** — This hub answers one question: how do you specify, source and use paprika and dried
+chillies for food manufacturing? Specify paprika by colour (ASTA) and mild heat; specify dried
+chillies by heat (SHU) and product form. Every number is sourced from what the manufacturer
+actually produces, not scraped from a generic blog.
+
 ## What This Hub Answers
 
 This knowledge hub exists to answer one question well: **how do you specify, source and use
