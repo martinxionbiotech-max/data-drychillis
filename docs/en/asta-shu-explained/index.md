@@ -81,6 +81,20 @@ This is why paprika (colour) and chilli powder (heat) are different products, an
 specification sheet lists ASTA and SHU as separate fields. See
 [the buying guide](../buying-guide/index.md) for how they map to product forms.
 
+## What Buyers Should Ask
+
+Five questions separate a complete specification from a vague one:
+
+1. **What ASTA colour value do I need** — for colour, or am I specifying colour at all?
+2. **What SHU window** — and which test basis does the number come from?
+3. **Which variety** — colour and heat are set by variety, so name it rather than a generic
+   "paprika" or "chilli powder".
+4. **What mesh and moisture** — for texture, dispersion and shelf life.
+5. **Do colour and heat both matter** — or is only one of them doing the job in my product?
+
+If you can answer all five, your specification is complete. If not, that is where batch-to-batch
+inconsistency will show up later.
+
 ## A Note on Colour Stability
 
 Colour is not static — it changes in storage:

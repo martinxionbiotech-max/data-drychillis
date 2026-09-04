@@ -105,7 +105,18 @@ operating procedures at every position and dedicated quality inspectors at each 
 Quality control is what makes a specification meaningful. A precise spec — variety, SHU, ASTA,
 mesh, moisture — is only as good as the system behind it. Buying from a supplier running ISO
 9001 and HACCP with batch documentation and raw-material traceability is how you turn a written
-spec into a consistent product. See [importing & supply chain](../importing/index.md).
+spec into a consistent product.
+
+**What to ask any supplier before you commit volume:**
+
+1. **Certifications** — current ISO 9001 and HACCP, covering the product you are buying.
+2. **Foreign-object control** — is it one machine or an overlapping chain (magnet, X-ray, colour
+   sort)? Overlap matters because no single machine is trusted alone.
+3. **Batch traceability** — can a shipment be traced back to its growing base?
+4. **Test documentation** — is a certificate of analysis and batch record supplied as standard?
+
+These four questions separate a supplier with a documented system from one that only claims
+quality. See [importing & supply chain](../importing/index.md).
 
 ## References
 
