@@ -170,6 +170,59 @@
   </script>
   {% endif %}
 
+  {# Dataset — heat-level-reference (SHU full table) #}
+  {% if page and page.url and 'heat-level-reference' in page.url %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Tenda Peppers Chilli Heat Level (SHU) Reference",
+    "description": "Representative Scoville Heat Unit (SHU) ranges for major Chinese chilli varieties and heat bands.",
+    "creator": { "@id": "https://drychillis.com/#organization" },
+    "publisher": { "@id": "https://drychillis.com/#organization" },
+    "isAccessibleForFree": true,
+    "keywords": ["Scoville", "SHU", "chilli", "heat level", "paprika"],
+    "variableMeasured": [
+      { "@type": "PropertyValue", "name": "Sweet / low heat band", "value": "<500-10,000", "unitText": "SHU" },
+      { "@type": "PropertyValue", "name": "Medium heat band", "value": "10,000-20,000", "unitText": "SHU" },
+      { "@type": "PropertyValue", "name": "High heat band", "value": "20,000-50,000", "unitText": "SHU" },
+      { "@type": "PropertyValue", "name": "Extra hot band", "value": ">50,000", "unitText": "SHU" },
+      { "@type": "PropertyValue", "name": "Xinjiang sweet pepper / Red Dragon 23", "value": "<500", "unitText": "SHU" },
+      { "@type": "PropertyValue", "name": "Yidu red / Wangdu", "value": "<10,000", "unitText": "SHU" },
+      { "@type": "PropertyValue", "name": "Xian / Jinta / Erjingtiao", "value": "10,000-20,000", "unitText": "SHU" },
+      { "@type": "PropertyValue", "name": "Sanying / Zidantou / New Generation / Seven-Star", "value": "20,000-50,000", "unitText": "SHU" },
+      { "@type": "PropertyValue", "name": "Xiaomi", "value": "30,000-50,000", "unitText": "SHU" },
+      { "@type": "PropertyValue", "name": "Jixin (chicken-heart)", "value": "50,000-70,000", "unitText": "SHU" },
+      { "@type": "PropertyValue", "name": "Chilli King / Shuan Shuan", "value": ">50,000", "unitText": "SHU" }
+    ]
+  }
+  </script>
+  {% endif %}
+
+  {# Dataset — asta-shu-explained (ASTA + SHU bands) #}
+  {% if page and page.url and 'asta-shu-explained' in page.url %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Tenda Peppers ASTA Colour & SHU Reference",
+    "description": "ASTA colour value and Scoville Heat Unit (SHU) ranges for paprika and chilli specification.",
+    "creator": { "@id": "https://drychillis.com/#organization" },
+    "publisher": { "@id": "https://drychillis.com/#organization" },
+    "isAccessibleForFree": true,
+    "keywords": ["ASTA", "colour value", "Scoville", "SHU", "paprika", "chilli"],
+    "variableMeasured": [
+      { "@type": "PropertyValue", "name": "Sweet paprika (Xinjiang sweet pepper) ASTA", "value": "8-18", "unitText": "ASTA" },
+      { "@type": "PropertyValue", "name": "Sweet paprika overall supply ASTA range", "value": "60-240", "unitText": "ASTA" },
+      { "@type": "PropertyValue", "name": "Sweet / low heat band", "value": "<500-10,000", "unitText": "SHU" },
+      { "@type": "PropertyValue", "name": "Medium heat band", "value": "10,000-20,000", "unitText": "SHU" },
+      { "@type": "PropertyValue", "name": "High heat band", "value": "20,000-50,000", "unitText": "SHU" },
+      { "@type": "PropertyValue", "name": "Extra hot band", "value": ">50,000", "unitText": "SHU" }
+    ]
+  }
+  </script>
+  {% endif %}
+
   {% if page and page.meta and page.meta.faq %}
   <script type="application/ld+json">
   {
