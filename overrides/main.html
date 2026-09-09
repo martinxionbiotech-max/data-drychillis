@@ -9,8 +9,8 @@
   {{ super() }}
 
   {% set _canonical = page.canonical_url if page else config.site_url %}
-  {% set lang = 'es' if '/es/' in _canonical else ('ar' if '/ar/' in _canonical else 'en') %}
-  {% set og_locale = {'en': 'en_US', 'es': 'es_ES', 'ar': 'ar_AE'}[lang] %}
+  {% set lang = 'ru' if '/ru/' in _canonical else ('es' if '/es/' in _canonical else ('ar' if '/ar/' in _canonical else 'en')) %}
+  {% set og_locale = {'en': 'en_US', 'es': 'es_ES', 'ar': 'ar_AE', 'ru': 'ru_RU'}[lang] %}
   {% set home_url = config.site_url + (lang + '/' if lang != 'en' else '') %}
 
   <meta property="og:site_name" content="{{ config.site_name }}">
@@ -218,6 +218,31 @@
       { "@type": "PropertyValue", "name": "Medium heat band", "value": "10,000-20,000", "unitText": "SHU" },
       { "@type": "PropertyValue", "name": "High heat band", "value": "20,000-50,000", "unitText": "SHU" },
       { "@type": "PropertyValue", "name": "Extra hot band", "value": ">50,000", "unitText": "SHU" }
+    ]
+  }
+  </script>
+  {% endif %}
+
+  {# Dataset — chilli-varieties (varieties, regions, physical profiles, heat bands) #}
+  {% if page and page.url and 'chilli-varieties' in page.url %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Tenda Peppers Chinese Chilli Varieties & Grades Reference",
+    "description": "Representative Chinese chilli varieties with growing region, Scoville Heat Unit (SHU) range, physical profile and best use.",
+    "creator": { "@id": "https://drychillis.com/#organization" },
+    "publisher": { "@id": "https://drychillis.com/#organization" },
+    "isAccessibleForFree": true,
+    "keywords": ["chilli", "variety", "SHU", "ASTA", "China", "grades"],
+    "variableMeasured": [
+      { "@type": "PropertyValue", "name": "Xinjiang sweet pepper / Red Dragon 23", "value": "<500", "unitText": "SHU", "description": "Region: Xinjiang. Best for paprika powder and food colouring." },
+      { "@type": "PropertyValue", "name": "Yidu red / Wangdu", "value": "<10,000", "unitText": "SHU", "description": "Region: Inner Mongolia, Shandong, Shanxi, Hebei, Northeast. Best for low-heat paprika, flakes and marinades." },
+      { "@type": "PropertyValue", "name": "Xian pepper / Jinta / Erjingtiao", "value": "10,000-20,000", "unitText": "SHU", "description": "Region: Inner Mongolia, Xinjiang, Shandong, Guizhou. Best for medium powder, flakes and chilli paste." },
+      { "@type": "PropertyValue", "name": "Sanying / Tianying / Zidantou / New Generation / Seven-Star", "value": "20,000-50,000", "unitText": "SHU", "description": "Region: Henan, Hebei, Shandong, Anhui, Guizhou, Shanxi, Jilin. Best for hot sauce and snack seasoning." },
+      { "@type": "PropertyValue", "name": "Jixin (chicken-heart) / Xiaomi / Chilli King / Shuan Shuan / Man Tian Xing", "value": ">50,000", "unitText": "SHU", "description": "Region: Yunnan, Guizhou, Fujian, Hainan. Best for extreme heat and Sichuan-style dishes." },
+      { "@type": "PropertyValue", "name": "Jinta pepper fruit length", "value": "11-14", "unitText": "cm", "description": "Physical profile: fruit 11-14 cm long, 2-2.4 cm diameter, ~17 g per pod." },
+      { "@type": "PropertyValue", "name": "Lantern pepper plant height", "value": "1-1.2", "unitText": "m", "description": "Physical profile: plant 1-1.2 m tall." }
     ]
   }
   </script>

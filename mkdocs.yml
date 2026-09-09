@@ -90,3 +90,23 @@ plugins:
             Import & Supply: الاستيراد وسلسلة التوريد
             Importing & Supply Chain: الاستيراد وسلسلة التوريد
             Shipping & Customs: الشحن والجمارك
+        - locale: ru
+          name: Русский
+          nav_translations:
+            Home: Главная
+            Buying Guide: Руководство по закупке
+            Paprika & Chilli Buying Guide: Руководство по закупке паприки и чили
+            Specifications: Технические характеристики
+            ASTA Colour & SHU Explained: Объяснение цвета ASTA и SHU
+            Chilli Varieties & Grades: Сорта и классы чили
+            Paprika Origins Compared: Сравнение происхождения паприки
+            Organic vs Conventional: Органическая и обычная продукция
+            Colour Change & Storage: Изменение цвета и хранение
+            Heat Perception & Palate: Восприятие остроты и вкус
+            Chilli Heat Level Reference: Справочник уровня остроты чили
+            Quality Control: Контроль качества
+            Applications: Применение
+            Applications & Formulation: Применение и рецептуры
+            Import & Supply: Импорт и поставки
+            Importing & Supply Chain: Импорт и цепочка поставок
+            Shipping & Customs: Доставка и таможня
