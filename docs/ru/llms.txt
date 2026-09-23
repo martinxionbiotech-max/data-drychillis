@@ -22,3 +22,4 @@
 - [Применение и рецептуры](https://docs.drychillis.com/ru/applications/)
 - [Импорт и цепочка поставок](https://docs.drychillis.com/ru/importing/)
 - [Доставка и таможня](https://docs.drychillis.com/ru/shipping-and-customs/)
+- [Шаблон спецификации покупателя](https://docs.drychillis.com/ru/specification-template/)

@@ -22,3 +22,4 @@
 - [التطبيقات والتركيبات](https://docs.drychillis.com/ar/applications/)
 - [الاستيراد وسلسلة التوريد](https://docs.drychillis.com/ar/importing/)
 - [الشحن والجمارك](https://docs.drychillis.com/ar/shipping-and-customs/)
+- [نموذج مواصفات المشتري](https://docs.drychillis.com/ar/specification-template/)

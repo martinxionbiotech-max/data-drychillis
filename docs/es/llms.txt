@@ -22,3 +22,4 @@
 - [Aplicaciones y Formulación](https://docs.drychillis.com/es/applications/)
 - [Importación y Cadena de Suministro](https://docs.drychillis.com/es/importing/)
 - [Envío y Aduanas](https://docs.drychillis.com/es/shipping-and-customs/)
+- [Plantilla de Especificación del Comprador](https://docs.drychillis.com/es/specification-template/)
