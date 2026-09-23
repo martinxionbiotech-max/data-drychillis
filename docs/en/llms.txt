@@ -20,5 +20,6 @@
 - [Colour Change & Storage](https://docs.drychillis.com/colour-storage/)
 - [Heat Perception & Palate](https://docs.drychillis.com/heat-perception/)
 - [Quality Control](https://docs.drychillis.com/quality-control/)
+- [Buyer Specification Template](https://docs.drychillis.com/specification-template/)
 - [Applications & Formulation](https://docs.drychillis.com/applications/)
 - [Importing & Supply Chain](https://docs.drychillis.com/importing/)

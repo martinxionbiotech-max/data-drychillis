@@ -30,6 +30,7 @@ nav:
       - Heat Perception & Palate: heat-perception/index.md
       - Chilli Heat Level Reference: heat-level-reference/index.md
       - Quality Control: quality-control/index.md
+      - Buyer Specification Template: specification-template/index.md
   - Applications:
       - Applications & Formulation: applications/index.md
   - Import & Supply:
@@ -65,6 +66,7 @@ plugins:
             Heat Perception & Palate: Percepción del Picor y Paladar
             Chilli Heat Level Reference: Referencia de Nivel de Picor
             Quality Control: Control de Calidad
+            Buyer Specification Template: Plantilla de Especificación del Comprador
             Applications: Aplicaciones
             Applications & Formulation: Aplicaciones y Formulación
             Import & Supply: Importación y Cadena de Suministro
@@ -85,6 +87,7 @@ plugins:
             Heat Perception & Palate: إدراك الحرارة والذوق
             Chilli Heat Level Reference: مرجع مستوى الحرارة
             Quality Control: مراقبة الجودة
+            Buyer Specification Template: نموذج مواصفات المشتري
             Applications: التطبيقات
             Applications & Formulation: التطبيقات والتركيبات
             Import & Supply: الاستيراد وسلسلة التوريد
@@ -105,6 +108,7 @@ plugins:
             Heat Perception & Palate: Восприятие остроты и вкус
             Chilli Heat Level Reference: Справочник уровня остроты чили
             Quality Control: Контроль качества
+            Buyer Specification Template: Шаблон спецификации покупателя
             Applications: Применение
             Applications & Formulation: Применение и рецептуры
             Import & Supply: Импорт и поставки
