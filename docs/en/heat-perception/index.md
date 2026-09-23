@@ -79,7 +79,7 @@ This is the "layered heat and colour" principle behind consistent hot sauces and
 
 ## References
 
-1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality/)
+1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality-certifications/)
 
 ## Related
 

@@ -70,7 +70,7 @@ A reliable supplier runs a quality system that documents every batch. Tenda Pepp
 under ISO 9001 and HACCP with raw-material traceability from 12 controlled growing bases —
 meaning the variety and source of each batch are known, and every batch is verified through
 X-ray inspection, colour sorting and metal detection. See
-[quality & certifications](https://drychillis.com/quality/).
+[quality & certifications](https://drychillis.com/quality-certifications/).
 
 ### The Document Set
 
@@ -110,7 +110,7 @@ a consistent colour and heat profile, and one that drifts between shipments. See
 
 ## References
 
-1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality/)
+1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality-certifications/)
 
 ## Related
 

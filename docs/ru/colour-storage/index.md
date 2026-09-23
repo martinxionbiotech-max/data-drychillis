@@ -88,7 +88,7 @@ Tenda Peppers хранит готовую продукцию на большом
 
 ## Источники
 
-1. [Техническая документация Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/quality/)
+1. [Техническая документация Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/ru/quality-certifications/)
 
 ## Связанное
 
@@ -97,4 +97,4 @@ Tenda Peppers хранит готовую продукцию на большом
 
 ## Найдите нужный продукт
 
-Нужен стабильный цвет для вашего применения? Ознакомьтесь с [порошком паприки](https://drychillis.com/products/paprika/) или [свяжитесь с нами](https://drychillis.com/contact/).
+Нужен стабильный цвет для вашего применения? Ознакомьтесь с [порошком паприки](https://drychillis.com/ru/products/paprika-powder/) или [свяжитесь с нами](https://drychillis.com/ru/contact/).

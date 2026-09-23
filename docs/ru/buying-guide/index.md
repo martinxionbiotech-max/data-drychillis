@@ -102,7 +102,7 @@ faq:
 
 ## Источники
 
-1. [Техническая документация Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/quality/)
+1. [Техническая документация Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/ru/quality-certifications/)
 
 ## Связанное
 
@@ -112,4 +112,4 @@ faq:
 
 ## Найдите нужный продукт
 
-Нужна подобранная спецификация? Ознакомьтесь с ассортиментом [порошка паприки](https://drychillis.com/products/paprika/) и [сушёного чили](https://drychillis.com/products/dried-chillies/) или [свяжитесь с нами](https://drychillis.com/contact/) для расчёта стоимости.
+Нужна подобранная спецификация? Ознакомьтесь с ассортиментом [порошка паприки](https://drychillis.com/ru/products/paprika-powder/) и [сушёного чили](https://drychillis.com/ru/products/dried-chillies/) или [свяжитесь с нами](https://drychillis.com/ru/contact/) для расчёта стоимости.

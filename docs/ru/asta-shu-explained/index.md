@@ -110,7 +110,7 @@ SHU измеряет остроту — точнее, концентрацию �
 
 ## Источники
 
-1. [Техническая документация Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/quality/)
+1. [Техническая документация Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/ru/quality-certifications/)
 
 ## Связанное
 
@@ -120,4 +120,4 @@ SHU измеряет остроту — точнее, концентрацию �
 
 ## Найдите нужный продукт
 
-Нужна подобранная спецификация цвета или остроты? Ознакомьтесь с [порошком паприки](https://drychillis.com/products/paprika/) или [свяжитесь с нами](https://drychillis.com/contact/).
+Нужна подобранная спецификация цвета или остроты? Ознакомьтесь с [порошком паприки](https://drychillis.com/ru/products/paprika-powder/) или [свяжитесь с нами](https://drychillis.com/ru/contact/).

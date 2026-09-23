@@ -77,7 +77,7 @@ Consulte [color ASTA y SHU explicados](../asta-shu-explained/index.md).
 
 ## Referencias
 
-1. [Documentación técnica de Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/es/quality/)
+1. [Documentación técnica de Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/es/quality-certifications/)
 
 ## Relacionado
 
@@ -86,4 +86,4 @@ Consulte [color ASTA y SHU explicados](../asta-shu-explained/index.md).
 
 ## Encuentre el Producto Adecuado
 
-¿Necesita pimentón de alto color? Explore la [pimentón en polvo](https://drychillis.com/es/products/paprika/) o [contáctenos](https://drychillis.com/es/contact/).
+¿Necesita pimentón de alto color? Explore la [pimentón en polvo](https://drychillis.com/es/products/paprika-powder/) o [contáctenos](https://drychillis.com/es/contact/).

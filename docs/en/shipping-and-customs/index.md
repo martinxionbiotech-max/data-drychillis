@@ -88,7 +88,7 @@ it left the factory.
 
 ## References
 
-1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality/)
+1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality-certifications/)
 
 ## Related
 

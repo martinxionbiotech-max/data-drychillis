@@ -156,7 +156,7 @@
     "author": {
       "@type": "Organization",
       "name": "Tenda Peppers Technical Team",
-      "url": "https://drychillis.com/about/"
+      "url": "https://drychillis.com/about-us/"
     },
     "publisher": { "@id": "{{ config.site_url }}#organization" },
     "datePublished": "{{ page.meta.date_published }}",
@@ -284,6 +284,9 @@
 {% endblock %}
 
 {% block content %}
+  {% set _p = page.canonical_url if page else config.site_url %}
+  {% set clang = 'ru' if '/ru/' in _p else ('es' if '/es/' in _p else ('ar' if '/ar/' in _p else 'en')) %}
+  {% set main_base = 'https://drychillis.com' + ('/' + clang if clang != 'en' else '') %}
   {% if "\u003ch1" not in page.content %}
     <h1>{{ page.title | d(config.site_name, true) }}</h1>
   {% endif %}
@@ -323,19 +326,19 @@
       Specifications sourced from Tenda Peppers technical documentation under an ISO 9001 and
       HACCP quality management system. ASTA colour value, SHU heat level, mesh and moisture are
       per-variety and confirmed against your target specification — always confirm before final
-      order. Questions? <a href="https://drychillis.com/contact/">Contact Tenda Peppers</a>.
+      order. Questions? <a href="{{ main_base }}/contact/">Contact Tenda Peppers</a>.
     </span>
   </div>
   {% endif %}
 
   <div class="tp-main-cta" role="note" aria-label="Manufacturer link">
-    <a href="https://drychillis.com/" class="tp-main-cta__link">Tenda Peppers — Paprika &amp; Dried Chillies Manufacturer</a>
+    <a href="{{ main_base }}/" class="tp-main-cta__link">Tenda Peppers — Paprika &amp; Dried Chillies Manufacturer</a>
     <span class="tp-data-note">
       This guide is published by Tenda Peppers, the paprika and dried chilli brand of Leling Tenda
       Chili Products Co., Ltd. (founded 2010). Browse our
-      <a href="https://drychillis.com/products/paprika/">paprika powder</a> and
-      <a href="https://drychillis.com/products/dried-chillies/">dried chillies</a>,
-      or <a href="https://drychillis.com/contact/">request a quotation</a>.
+      <a href="{{ main_base }}/products/paprika-powder/">paprika powder</a> and
+      <a href="{{ main_base }}/products/dried-chillies/">dried chillies</a>,
+      or <a href="{{ main_base }}/contact/">request a quotation</a>.
     </span>
   </div>
 {% endblock %}

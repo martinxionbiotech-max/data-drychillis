@@ -83,7 +83,7 @@ ASTA, SHU, вкус — а не только по происхождению.
 
 ## Источники
 
-1. [Техническая документация Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/quality/)
+1. [Техническая документация Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/ru/quality-certifications/)
 
 ## Связанное
 
@@ -92,4 +92,4 @@ ASTA, SHU, вкус — а не только по происхождению.
 
 ## Найдите нужный продукт
 
-Нужна высокоцветная паприка? Ознакомьтесь с [порошком паприки](https://drychillis.com/products/paprika/) или [свяжитесь с нами](https://drychillis.com/contact/).
+Нужна высокоцветная паприка? Ознакомьтесь с [порошком паприки](https://drychillis.com/ru/products/paprika-powder/) или [свяжитесь с нами](https://drychillis.com/ru/contact/).

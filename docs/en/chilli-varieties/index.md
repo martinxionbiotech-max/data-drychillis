@@ -126,7 +126,7 @@ consistent hot sauce. See [ASTA colour & SHU explained](../asta-shu-explained/in
 
 ## References
 
-1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality/)
+1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality-certifications/)
 
 ## Related
 

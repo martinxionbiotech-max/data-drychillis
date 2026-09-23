@@ -35,7 +35,10 @@
         </div>
       </div>
     </div>
-    <a href="https://drychillis.com/" class="tp-back-home" title="Back to Tenda Peppers main site" aria-label="Back to main site">
+    {% set _p = page.canonical_url if page else config.site_url %}
+    {% set hlang = 'ru' if '/ru/' in _p else ('es' if '/es/' in _p else ('ar' if '/ar/' in _p else 'en')) %}
+    {% set main_home = 'https://drychillis.com' + ('/' + hlang if hlang != 'en' else '') %}
+    <a href="{{ main_home }}/" class="tp-back-home" title="Back to Tenda Peppers main site" aria-label="Back to main site">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
       <span class="tp-back-home__label">Back to Home</span>
     </a>

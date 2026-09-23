@@ -67,7 +67,7 @@ faq:
 المورد الموثوق يعمل بنظام جودة يوثق كل دفعة. تعمل Tenda Peppers بنظامي ISO 9001 وHACCP مع
 قابلية تتبع للمواد الخام من 12 قاعدة زراعة خاضعة للرقابة — ما يعني أن صنف ومصدر كل دفعة
 معروفان، وكل دفعة تُتحقق عبر الفحص بالأشعة السينية والفرز بالألوان وكشف المعادن. راجع
-[الجودة والشهادات](https://drychillis.com/ar/quality/).
+[الجودة والشهادات](https://drychillis.com/ar/quality-certifications/).
 
 ### مجموعة المستندات
 
@@ -103,7 +103,7 @@ faq:
 
 ## المراجع
 
-1. [الوثائق التقنية لـ Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/ar/quality/)
+1. [الوثائق التقنية لـ Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/ar/quality-certifications/)
 
 ## ذات صلة
 

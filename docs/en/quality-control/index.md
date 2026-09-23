@@ -120,7 +120,7 @@ quality. See [importing & supply chain](../importing/index.md).
 
 ## References
 
-1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality/)
+1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality-certifications/)
 
 ## Related
 
@@ -129,4 +129,4 @@ quality. See [importing & supply chain](../importing/index.md).
 
 ## Find the Right Product
 
-Need consistent quality across batches? Browse the [paprika powder](https://drychillis.com/products/paprika/) or [contact us](https://drychillis.com/contact/).
+Need consistent quality across batches? Browse the [paprika powder](https://drychillis.com/products/paprika-powder/) or [contact us](https://drychillis.com/contact/).

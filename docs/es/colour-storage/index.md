@@ -89,7 +89,7 @@ las condiciones de almacenamiento en tu especificación.
 
 ## Referencias
 
-1. [Documentación técnica de Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/es/quality/)
+1. [Documentación técnica de Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/es/quality-certifications/)
 
 ## Relacionado
 
@@ -98,4 +98,4 @@ las condiciones de almacenamiento en tu especificación.
 
 ## Encuentre el Producto Adecuado
 
-¿Necesita color estable para su aplicación? Explore la [pimentón en polvo](https://drychillis.com/es/products/paprika/) o [contáctenos](https://drychillis.com/es/contact/).
+¿Necesita color estable para su aplicación? Explore la [pimentón en polvo](https://drychillis.com/es/products/paprika-powder/) o [contáctenos](https://drychillis.com/es/contact/).

@@ -82,7 +82,7 @@ heat level and flavour, then match the origin to the specification. See
 
 ## References
 
-1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality/)
+1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality-certifications/)
 
 ## Related
 
@@ -91,4 +91,4 @@ heat level and flavour, then match the origin to the specification. See
 
 ## Find the Right Product
 
-Need high-colour paprika? Browse the [paprika powder](https://drychillis.com/products/paprika/) or [contact us](https://drychillis.com/contact/).
+Need high-colour paprika? Browse the [paprika powder](https://drychillis.com/products/paprika-powder/) or [contact us](https://drychillis.com/contact/).

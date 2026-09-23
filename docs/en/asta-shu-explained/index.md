@@ -109,7 +109,7 @@ conditions with your supplier. See
 
 ## References
 
-1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality/)
+1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality-certifications/)
 
 ## Related
 
@@ -119,4 +119,4 @@ conditions with your supplier. See
 
 ## Find the Right Product
 
-Need a matched colour or heat specification? Browse the [paprika powder](https://drychillis.com/products/paprika/) or [contact us](https://drychillis.com/contact/).
+Need a matched colour or heat specification? Browse the [paprika powder](https://drychillis.com/products/paprika-powder/) or [contact us](https://drychillis.com/contact/).

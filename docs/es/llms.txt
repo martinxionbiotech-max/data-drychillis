@@ -1,0 +1,24 @@
+# Centro de Conocimiento de Tenda Peppers — docs.drychillis.com (es)
+
+> Documentación técnica oficial para el abastecimiento de pimentón y chile seco.
+
+## Key facts
+
+- **Hub**: Centro de Conocimiento de Tenda Peppers
+- **Parent site**: https://drychillis.com
+- **Domain**: https://docs.drychillis.com
+
+## Pages
+
+- [Inicio](https://docs.drychillis.com/es/)
+- [Guía de Compra de Pimentón y Chile](https://docs.drychillis.com/es/buying-guide/)
+- [Color ASTA y SHH Explicados](https://docs.drychillis.com/es/asta-shu-explained/)
+- [Variedades y Grados de Chile](https://docs.drychillis.com/es/chilli-varieties/)
+- [Orígenes del Pimentón Comparados](https://docs.drychillis.com/es/paprika-origins/)
+- [Orgánico vs Convencional](https://docs.drychillis.com/es/organic-vs-conventional/)
+- [Cambio de Color y Almacenamiento](https://docs.drychillis.com/es/colour-storage/)
+- [Percepción del Picor y Paladar](https://docs.drychillis.com/es/heat-perception/)
+- [Control de Calidad](https://docs.drychillis.com/es/quality-control/)
+- [Aplicaciones y Formulación](https://docs.drychillis.com/es/applications/)
+- [Importación y Cadena de Suministro](https://docs.drychillis.com/es/importing/)
+- [Envío y Aduanas](https://docs.drychillis.com/es/shipping-and-customs/)

@@ -1,0 +1,24 @@
+# База знаний Tenda Peppers — docs.drychillis.com (ru)
+
+> Официальная техническая документация по закупке паприки и сушёного чили.
+
+## Key facts
+
+- **Hub**: База знаний Tenda Peppers
+- **Parent site**: https://drychillis.com
+- **Domain**: https://docs.drychillis.com
+
+## Pages
+
+- [Главная](https://docs.drychillis.com/ru/)
+- [Руководство по закупке паприки и чили](https://docs.drychillis.com/ru/buying-guide/)
+- [Объяснение цвета ASTA и SHU](https://docs.drychillis.com/ru/asta-shu-explained/)
+- [Сорта и классы чили](https://docs.drychillis.com/ru/chilli-varieties/)
+- [Сравнение происхождения паприки](https://docs.drychillis.com/ru/paprika-origins/)
+- [Органическая и обычная продукция](https://docs.drychillis.com/ru/organic-vs-conventional/)
+- [Изменение цвета и хранение](https://docs.drychillis.com/ru/colour-storage/)
+- [Восприятие остроты и вкус](https://docs.drychillis.com/ru/heat-perception/)
+- [Контроль качества](https://docs.drychillis.com/ru/quality-control/)
+- [Применение и рецептуры](https://docs.drychillis.com/ru/applications/)
+- [Импорт и цепочка поставок](https://docs.drychillis.com/ru/importing/)
+- [Доставка и таможня](https://docs.drychillis.com/ru/shipping-and-customs/)

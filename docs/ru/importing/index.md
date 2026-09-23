@@ -71,7 +71,7 @@ SHU, необычный помол или индивидуальная цель 
 работает по ISO 9001 и HACCP с прослеживаемостью сырья от 12 контролируемых баз выращивания — то
 есть сорт и источник каждой партии известны, а каждая партия проверяется через рентгеновскую
 инспекцию, цветовую сортировку и детекцию металла. См.
-[«Качество и сертификации»](https://drychillis.com/quality/).
+[«Качество и сертификации»](https://drychillis.com/ru/quality-certifications/).
 
 ### Комплект документов
 
@@ -109,7 +109,7 @@ SHU, необычный помол или индивидуальная цель 
 
 ## Источники
 
-1. [Техническая документация Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/quality/)
+1. [Техническая документация Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/ru/quality-certifications/)
 
 ## Связанное
 
@@ -120,4 +120,4 @@ SHU, необычный помол или индивидуальная цель 
 ## Контакт
 
 По вопросам MOQ, сроков поставки и условий экспорта посетите
-[страницу контактов Tenda Peppers](https://drychillis.com/contact/) или напишите на joanna@paprikabulk.com.
+[страницу контактов Tenda Peppers](https://drychillis.com/ru/contact/) или напишите на joanna@paprikabulk.com.

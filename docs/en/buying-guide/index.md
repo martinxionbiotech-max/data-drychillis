@@ -103,7 +103,7 @@ returns a range wide enough to be useless.
 
 ## References
 
-1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality/)
+1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality-certifications/)
 
 ## Related
 
@@ -113,4 +113,4 @@ returns a range wide enough to be useless.
 
 ## Find the Right Product
 
-Need a matched specification? Browse our [paprika powder](https://drychillis.com/products/paprika/) and [dried chillies](https://drychillis.com/products/dried-chillies/) range, or [contact us](https://drychillis.com/contact/) for a quotation.
+Need a matched specification? Browse our [paprika powder](https://drychillis.com/products/paprika-powder/) and [dried chillies](https://drychillis.com/products/dried-chillies/) range, or [contact us](https://drychillis.com/contact/) for a quotation.

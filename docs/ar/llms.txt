@@ -1,0 +1,24 @@
+# مركز المعرفة لتيندا بيبرز — docs.drychillis.com (ar)
+
+> الوثائق التقنية الرسمية لتوريد الفلفل الحلو والفلفل الحار المجفف.
+
+## Key facts
+
+- **Hub**: مركز المعرفة لتيندا بيبرز
+- **Parent site**: https://drychillis.com
+- **Domain**: https://docs.drychillis.com
+
+## Pages
+
+- [الرئيسية](https://docs.drychillis.com/ar/)
+- [دليل شراء الفلفل الحلو والفلفل الحار](https://docs.drychillis.com/ar/buying-guide/)
+- [شرح لون ASTA ووحدات SHU](https://docs.drychillis.com/ar/asta-shu-explained/)
+- [أصناف الفلفل ودرجاته](https://docs.drychillis.com/ar/chilli-varieties/)
+- [مقارنة أصول الفلفل الحلو](https://docs.drychillis.com/ar/paprika-origins/)
+- [عضوي مقابل تقليدي](https://docs.drychillis.com/ar/organic-vs-conventional/)
+- [تغير اللون والتخزين](https://docs.drychillis.com/ar/colour-storage/)
+- [إدراك الحرارة والذوق](https://docs.drychillis.com/ar/heat-perception/)
+- [مراقبة الجودة](https://docs.drychillis.com/ar/quality-control/)
+- [التطبيقات والتركيبات](https://docs.drychillis.com/ar/applications/)
+- [الاستيراد وسلسلة التوريد](https://docs.drychillis.com/ar/importing/)
+- [الشحن والجمارك](https://docs.drychillis.com/ar/shipping-and-customs/)

@@ -52,9 +52,9 @@ date_modified: 2026-08-31
 ## Сайт ↔ Центр знаний
 
 Этот центр — техническое документальное дополнение к
-[Tenda Peppers](https://drychillis.com/), производителю паприки и сушёного чили компании
+[Tenda Peppers](https://drychillis.com/ru/), производителю паприки и сушёного чили компании
 Leling Tenda Chili Products Co., Ltd. (основана в 2010 г., Шаньдун, Китай). Есть вопросы, не
-освещённые здесь? [Свяжитесь с Tenda Peppers](https://drychillis.com/contact/).
+освещённые здесь? [Свяжитесь с Tenda Peppers](https://drychillis.com/ru/contact/).
 
 ---
 

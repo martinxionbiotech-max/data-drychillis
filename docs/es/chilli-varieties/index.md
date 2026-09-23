@@ -124,7 +124,7 @@ color consistente y una salsa picante consistente. Consulte
 
 ## Referencias
 
-1. [Documentación técnica de Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/es/quality/)
+1. [Documentación técnica de Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/es/quality-certifications/)
 
 ## Relacionado
 

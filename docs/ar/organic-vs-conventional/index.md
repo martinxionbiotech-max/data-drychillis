@@ -84,7 +84,7 @@ Tenda Peppers معتمدة في ISO 9001 وHACCP، وتنتج فلفلًا حل�
 
 ## المراجع
 
-1. [الوثائق التقنية لـ Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/ar/quality/)
+1. [الوثائق التقنية لـ Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/ar/quality-certifications/)
 
 ## ذات صلة
 
@@ -93,4 +93,4 @@ Tenda Peppers معتمدة في ISO 9001 وHACCP، وتنتج فلفلًا حل�
 
 ## ابحث عن المنتج المناسب
 
-تحتاج فلفلًا حلوًا تقليديًا؟ تصفح [مسحوق الفلفل الحلو](https://drychillis.com/ar/products/paprika/) أو [تواصل معنا](https://drychillis.com/ar/contact/).
+تحتاج فلفلًا حلوًا تقليديًا؟ تصفح [مسحوق الفلفل الحلو](https://drychillis.com/ar/products/paprika-powder/) أو [تواصل معنا](https://drychillis.com/ar/contact/).

@@ -96,7 +96,7 @@ and moisture. For how to build the full specification see
 
 ## References
 
-1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality/)
+1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality-certifications/)
 
 ## Related
 
@@ -105,4 +105,4 @@ and moisture. For how to build the full specification see
 
 ## Find the Right Product
 
-Need conventional paprika? Browse the [paprika powder](https://drychillis.com/products/paprika/) or [contact us](https://drychillis.com/contact/).
+Need conventional paprika? Browse the [paprika powder](https://drychillis.com/products/paprika-powder/) or [contact us](https://drychillis.com/contact/).

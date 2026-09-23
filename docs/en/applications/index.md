@@ -100,7 +100,7 @@ supplier to match exact ratios to your target heat and colour profile.*
 
 ## References
 
-1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality/)
+1. [Tenda Peppers technical documentation (ISO 9001 / HACCP)](https://drychillis.com/quality-certifications/)
 
 ## Related
 
@@ -109,4 +109,4 @@ supplier to match exact ratios to your target heat and colour profile.*
 
 ## Find the Right Product
 
-Need a blend matched to your formulation? Browse our [dried chillies](https://drychillis.com/products/dried-chillies/) and [paprika powder](https://drychillis.com/products/paprika/) range, or [contact us](https://drychillis.com/contact/).
+Need a blend matched to your formulation? Browse our [dried chillies](https://drychillis.com/products/dried-chillies/) and [paprika powder](https://drychillis.com/products/paprika-powder/) range, or [contact us](https://drychillis.com/contact/).

@@ -80,7 +80,7 @@ faq:
 
 ## Источники
 
-1. [Техническая документация Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/quality/)
+1. [Техническая документация Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/ru/quality-certifications/)
 
 ## Связанное
 
@@ -89,4 +89,4 @@ faq:
 
 ## Найдите нужный продукт
 
-Нужен конкретный профиль остроты? Ознакомьтесь с [сушёным чили](https://drychillis.com/products/dried-chillies/) или [свяжитесь с нами](https://drychillis.com/contact/).
+Нужен конкретный профиль остроты? Ознакомьтесь с [сушёным чили](https://drychillis.com/ru/products/dried-chillies/) или [свяжитесь с нами](https://drychillis.com/ru/contact/).

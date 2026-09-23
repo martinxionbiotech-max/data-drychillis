@@ -89,7 +89,7 @@ Para guía completa de aplicación con un ejemplo trabajado de adobo, consulte
 
 ## Referencias
 
-1. [Documentación técnica de Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/es/quality/)
+1. [Documentación técnica de Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/es/quality-certifications/)
 
 ## Relacionado
 
@@ -99,4 +99,4 @@ Para guía completa de aplicación con un ejemplo trabajado de adobo, consulte
 
 ## Encuentre el Producto Adecuado
 
-¿Necesita una especificación a medida? Explore la [pimentón en polvo](https://drychillis.com/es/products/paprika/) o [contáctenos](https://drychillis.com/es/contact/) para una cotización.
+¿Necesita una especificación a medida? Explore la [pimentón en polvo](https://drychillis.com/es/products/paprika-powder/) o [contáctenos](https://drychillis.com/es/contact/) para una cotización.

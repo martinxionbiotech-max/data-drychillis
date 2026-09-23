@@ -76,7 +76,7 @@ faq:
 
 ## المراجع
 
-1. [الوثائق التقنية لـ Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/ar/quality/)
+1. [الوثائق التقنية لـ Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/ar/quality-certifications/)
 
 ## ذات صلة
 

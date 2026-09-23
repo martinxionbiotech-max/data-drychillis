@@ -70,7 +70,7 @@ Un proveedor fiable opera un sistema de calidad que documenta cada lote. Tenda P
 ISO 9001 y HACCP con trazabilidad de materia prima desde 12 bases de cultivo controladas — lo que
 significa que la variedad y el origen de cada lote son conocidos, y cada lote se verifica mediante
 inspección por rayos X, clasificación por color y detección de metales. Consulte
-[calidad y certificaciones](https://drychillis.com/es/quality/).
+[calidad y certificaciones](https://drychillis.com/es/quality-certifications/).
 
 ### El Conjunto de Documentos
 
@@ -109,7 +109,7 @@ perfil de color y picor consistente, y uno que varía entre envíos. Consulte
 
 ## Referencias
 
-1. [Documentación técnica de Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/es/quality/)
+1. [Documentación técnica de Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/es/quality-certifications/)
 
 ## Relacionado
 

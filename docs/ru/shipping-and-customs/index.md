@@ -89,7 +89,7 @@ FOB и CIF — рабочие лошадки для импорта чили. В�
 
 ## Источники
 
-1. [Техническая документация Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/quality/)
+1. [Техническая документация Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/ru/quality-certifications/)
 
 ## Связанное
 
@@ -99,4 +99,4 @@ FOB и CIF — рабочие лошадки для импорта чили. В�
 ## Контакт
 
 По вопросам условий доставки и экспортной документации посетите
-[страницу контактов Tenda Peppers](https://drychillis.com/contact/) или напишите на joanna@paprikabulk.com.
+[страницу контактов Tenda Peppers](https://drychillis.com/ru/contact/) или напишите на joanna@paprikabulk.com.

@@ -85,7 +85,7 @@ faq:
 
 ## المراجع
 
-1. [الوثائق التقنية لـ Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/ar/quality/)
+1. [الوثائق التقنية لـ Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/ar/quality-certifications/)
 
 ## ذات صلة
 
@@ -95,4 +95,4 @@ faq:
 
 ## ابحث عن المنتج المناسب
 
-تحتاج مواصفات مطابقة؟ تصفح [مسحوق الفلفل الحلو](https://drychillis.com/ar/products/paprika/) أو [تواصل معنا](https://drychillis.com/ar/contact/) للحصول على عرض سعر.
+تحتاج مواصفات مطابقة؟ تصفح [مسحوق الفلفل الحلو](https://drychillis.com/ar/products/paprika-powder/) أو [تواصل معنا](https://drychillis.com/ar/contact/) للحصول على عرض سعر.

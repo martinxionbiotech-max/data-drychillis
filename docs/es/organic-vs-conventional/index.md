@@ -90,7 +90,7 @@ malla y humedad. Para cómo construir la especificación completa consulte
 
 ## Referencias
 
-1. [Documentación técnica de Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/es/quality/)
+1. [Documentación técnica de Tenda Peppers (ISO 9001 / HACCP)](https://drychillis.com/es/quality-certifications/)
 
 ## Relacionado
 
@@ -99,4 +99,4 @@ malla y humedad. Para cómo construir la especificación completa consulte
 
 ## Encuentre el Producto Adecuado
 
-¿Necesita pimentón convencional? Explore la [pimentón en polvo](https://drychillis.com/es/products/paprika/) o [contáctenos](https://drychillis.com/es/contact/).
+¿Necesita pimentón convencional? Explore la [pimentón en polvo](https://drychillis.com/es/products/paprika-powder/) o [contáctenos](https://drychillis.com/es/contact/).
